@@ -13,9 +13,9 @@ Open XXXX in your browser and upload your encrypted save file.
 - Python 3.6+
 - No external dependencies (uses only standard library)
 
-## CLI Usage
+## Usage
 
-### Command Line
+### Command Line Usage
 
 ```bash
 # Decrypt
@@ -42,7 +42,7 @@ encrypt_save_file('modified_save.json', 'GameDataFull.json', 'custom_password')
 
 Note: The custom password is optional and defaults to the game's password.
 
-## How It Works (CLI)
+## How It Works
 
 CloverPit uses a custom XOR-based encryption:
 
