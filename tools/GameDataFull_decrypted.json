@@ -1,0 +1,3418 @@
+{
+  "myGameDataIndex": 0,
+  "dataOpenedTimes": 4,
+  "lastGameVersionThatSavedMe": "1.1",
+  "enforceRunReset": false,
+  "gameplayDataHasSession": true,
+  "gameplayData": {
+    "seed": 1761217516,
+    "rngRunMod": {
+      "seed": 1761217516,
+      "stateIndex": 0,
+      "randomNumber": 1761217516
+    },
+    "rngSymbolsMod": {
+      "seed": 1761217516,
+      "stateIndex": 6120,
+      "randomNumber": 2138737982
+    },
+    "rngPowerupsMod": {
+      "seed": 1761217516,
+      "stateIndex": 0,
+      "randomNumber": 1761217516
+    },
+    "rngSymbolsChance": {
+      "seed": 1761217516,
+      "stateIndex": 1012,
+      "randomNumber": 1101632951
+    },
+    "rngCards": {
+      "seed": 1761217516,
+      "stateIndex": 0,
+      "randomNumber": 1761217516
+    },
+    "rngPowerupsAll": {
+      "seed": 1761217516,
+      "stateIndex": 0,
+      "randomNumber": 1761217516
+    },
+    "rngAbilities": {
+      "seed": 1761217516,
+      "stateIndex": 0,
+      "randomNumber": 1761217516
+    },
+    "rngDrawers": {
+      "seed": 1761217516,
+      "stateIndex": 0,
+      "randomNumber": 1761217516
+    },
+    "rngStore": {
+      "seed": 1761217516,
+      "stateIndex": 11,
+      "randomNumber": 3633219825
+    },
+    "rngStoreChains": {
+      "seed": 1761217516,
+      "stateIndex": 3,
+      "randomNumber": 4143735998
+    },
+    "rngPhone": {
+      "seed": 1761217516,
+      "stateIndex": 0,
+      "randomNumber": 1761217516
+    },
+    "rngSlotMachineLuck": {
+      "seed": 1761217516,
+      "stateIndex": 108,
+      "randomNumber": 3603653261
+    },
+    "rng666": {
+      "seed": 1761217516,
+      "stateIndex": 0,
+      "randomNumber": 1761217516
+    },
+    "rngGarbage": {
+      "seed": 1761217516,
+      "stateIndex": 15,
+      "randomNumber": 3797283793
+    },
+    "equippedPowerups": [
+      "undefined",
+      "undefined",
+      "undefined",
+      "undefined",
+      "undefined",
+      "undefined",
+      "undefined",
+      "undefined",
+      "undefined",
+      "undefined",
+      "undefined",
+      "undefined",
+      "undefined",
+      "undefined",
+      "undefined",
+      "undefined",
+      "undefined",
+      "undefined",
+      "undefined",
+      "undefined",
+      "undefined",
+      "undefined",
+      "undefined",
+      "undefined",
+      "undefined",
+      "undefined",
+      "undefined",
+      "undefined",
+      "undefined",
+      "undefined",
+      "undefined",
+      "undefined",
+      "undefined"
+    ],
+    "equippedPowerups_Skeleton": [
+      "undefined",
+      "undefined",
+      "undefined",
+      "undefined",
+      "undefined"
+    ],
+    "drawerPowerups": [
+      "undefined",
+      "undefined",
+      "undefined",
+      "undefined"
+    ],
+    "storePowerups": [
+      "FortuneCookie",
+      "DearDiary",
+      "YellowStar",
+      "SymbolInstant_Treasure"
+    ],
+    "storeChainIndex_Array": 21,
+    "storeChainIndex_PowerupIdentifier": 1,
+    "storeLastRandomIndex": 110,
+    "_storeRestockExtraCost_ByteArray": [
+      0
+    ],
+    "_storeFreeRestocks": 0,
+    "temporaryDiscount": 0,
+    "temporaryDiscountPerSlot": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "interestRate": 7.0,
+    "coins_ByteArray": [
+      30
+    ],
+    "depositedCoins_ByteArray": [
+      30
+    ],
+    "interestEarned_ByteArray": [
+      0
+    ],
+    "roundEarnedCoins_ByteArray": [
+      22
+    ],
+    "cloverTickets": 3,
+    "cloverTickets_BonusFor_LittleBet": 2,
+    "cloverTickets_BonusFor_BigBet": 1,
+    "cloverTickets_BonusFor_RoundsLeft": 4,
+    "atmDeadline_RewardPickupMemo_MessageShown": false,
+    "roundDeadlineTrail": 1,
+    "roundDeadlineTrail_AtDeadlineBegin": 0,
+    "roundsReallyPlayed": 1,
+    "roundOfDeadline": 3,
+    "debtIndex_ByteArray": [
+      0
+    ],
+    "debtOutOfRangeMult_ByteArray": [
+      6
+    ],
+    "skeletonIsCompleted": false,
+    "victoryDeathConditionMet": false,
+    "spinsLeft": 0,
+    "spinsDoneInARun": 7,
+    "extraSpins": 0,
+    "maxSpins": 7,
+    "lastBetIsSmall": false,
+    "spinsWithoutReward": 2,
+    "_smallBetsPickedCounter": 0,
+    "_bigBetsPickedCounter": 1,
+    "spinsWithout5PlusPatterns": 7,
+    "consecutiveSpinsWithDiamTreasSevens": 0,
+    "_jackpotsScoredCounter": 0,
+    "_spinsWithAtleast1Jackpot": 0,
+    "_slotInitialLuckRndOffset": 2,
+    "_slotOccasionalLuckSpinN": -1,
+    "extraLuckEntries": [
+      {
+        "tag": "",
+        "luck": 0.0,
+        "luckMax": 0.0,
+        "spinsLeft": 0,
+        "spinsLeftMax": 0
+      },
+      {
+        "tag": "",
+        "luck": 0.0,
+        "luckMax": 0.0,
+        "spinsLeft": 0,
+        "spinsLeftMax": 0
+      },
+      {
+        "tag": "",
+        "luck": 0.0,
+        "luckMax": 0.0,
+        "spinsLeft": 0,
+        "spinsLeftMax": 0
+      },
+      {
+        "tag": "",
+        "luck": 0.0,
+        "luckMax": 0.0,
+        "spinsLeft": 0,
+        "spinsLeftMax": 0
+      },
+      {
+        "tag": "",
+        "luck": 0.0,
+        "luckMax": 0.0,
+        "spinsLeft": 0,
+        "spinsLeftMax": 0
+      },
+      {
+        "tag": "",
+        "luck": 0.0,
+        "luckMax": 0.0,
+        "spinsLeft": 0,
+        "spinsLeftMax": 0
+      },
+      {
+        "tag": "",
+        "luck": 0.0,
+        "luckMax": 0.0,
+        "spinsLeft": 0,
+        "spinsLeftMax": 0
+      },
+      {
+        "tag": "",
+        "luck": 0.0,
+        "luckMax": 0.0,
+        "spinsLeft": 0,
+        "spinsLeftMax": 0
+      },
+      {
+        "tag": "",
+        "luck": 0.0,
+        "luckMax": 0.0,
+        "spinsLeft": 0,
+        "spinsLeftMax": 0
+      },
+      {
+        "tag": "",
+        "luck": 0.0,
+        "luckMax": 0.0,
+        "spinsLeft": 0,
+        "spinsLeftMax": 0
+      },
+      {
+        "tag": "",
+        "luck": 0.0,
+        "luckMax": 0.0,
+        "spinsLeft": 0,
+        "spinsLeftMax": 0
+      },
+      {
+        "tag": "",
+        "luck": 0.0,
+        "luckMax": 0.0,
+        "spinsLeft": 0,
+        "spinsLeftMax": 0
+      },
+      {
+        "tag": "",
+        "luck": 0.0,
+        "luckMax": 0.0,
+        "spinsLeft": 0,
+        "spinsLeftMax": 0
+      },
+      {
+        "tag": "",
+        "luck": 0.0,
+        "luckMax": 0.0,
+        "spinsLeft": 0,
+        "spinsLeftMax": 0
+      },
+      {
+        "tag": "",
+        "luck": 0.0,
+        "luckMax": 0.0,
+        "spinsLeft": 0,
+        "spinsLeftMax": 0
+      },
+      {
+        "tag": "",
+        "luck": 0.0,
+        "luckMax": 0.0,
+        "spinsLeft": 0,
+        "spinsLeftMax": 0
+      },
+      {
+        "tag": "",
+        "luck": 0.0,
+        "luckMax": 0.0,
+        "spinsLeft": 0,
+        "spinsLeftMax": 0
+      },
+      {
+        "tag": "",
+        "luck": 0.0,
+        "luckMax": 0.0,
+        "spinsLeft": 0,
+        "spinsLeftMax": 0
+      },
+      {
+        "tag": "",
+        "luck": 0.0,
+        "luckMax": 0.0,
+        "spinsLeft": 0,
+        "spinsLeftMax": 0
+      },
+      {
+        "tag": "",
+        "luck": 0.0,
+        "luckMax": 0.0,
+        "spinsLeft": 0,
+        "spinsLeftMax": 0
+      }
+    ],
+    "powerupLuck": 1.0,
+    "activationLuck": 1.0,
+    "storeLuck": 1.0,
+    "symbolsAvailable_AsString": [
+      "lemon",
+      "cherry",
+      "clover",
+      "bell",
+      "diamond",
+      "coins",
+      "seven"
+    ],
+    "symbolsData": [
+      {
+        "symbolKindAsString": "lemon",
+        "extraValue_ByteArray": [
+          0
+        ],
+        "spawnChance": 1.2999999523162842,
+        "modifierChance01_InstantReward": 0.0,
+        "modifierChance01_CloverTicket": 0.0,
+        "modifierChance01_Golden": 0.0,
+        "modifierChance01_Repetition": 0.0,
+        "modifierChance01_Battery": 0.0,
+        "modifierChance01_Chain": 0.0
+      },
+      {
+        "symbolKindAsString": "cherry",
+        "extraValue_ByteArray": [
+          0
+        ],
+        "spawnChance": 1.2999999523162842,
+        "modifierChance01_InstantReward": 0.0,
+        "modifierChance01_CloverTicket": 0.0,
+        "modifierChance01_Golden": 0.0,
+        "modifierChance01_Repetition": 0.0,
+        "modifierChance01_Battery": 0.0,
+        "modifierChance01_Chain": 0.0
+      },
+      {
+        "symbolKindAsString": "clover",
+        "extraValue_ByteArray": [
+          0
+        ],
+        "spawnChance": 1.0,
+        "modifierChance01_InstantReward": 0.0,
+        "modifierChance01_CloverTicket": 0.0,
+        "modifierChance01_Golden": 0.0,
+        "modifierChance01_Repetition": 0.0,
+        "modifierChance01_Battery": 0.0,
+        "modifierChance01_Chain": 0.0
+      },
+      {
+        "symbolKindAsString": "bell",
+        "extraValue_ByteArray": [
+          0
+        ],
+        "spawnChance": 1.0,
+        "modifierChance01_InstantReward": 0.0,
+        "modifierChance01_CloverTicket": 0.0,
+        "modifierChance01_Golden": 0.0,
+        "modifierChance01_Repetition": 0.0,
+        "modifierChance01_Battery": 0.0,
+        "modifierChance01_Chain": 0.0
+      },
+      {
+        "symbolKindAsString": "diamond",
+        "extraValue_ByteArray": [
+          0
+        ],
+        "spawnChance": 0.800000011920929,
+        "modifierChance01_InstantReward": 0.0,
+        "modifierChance01_CloverTicket": 0.0,
+        "modifierChance01_Golden": 0.0,
+        "modifierChance01_Repetition": 0.0,
+        "modifierChance01_Battery": 0.0,
+        "modifierChance01_Chain": 0.0
+      },
+      {
+        "symbolKindAsString": "coins",
+        "extraValue_ByteArray": [
+          0
+        ],
+        "spawnChance": 0.800000011920929,
+        "modifierChance01_InstantReward": 0.0,
+        "modifierChance01_CloverTicket": 0.0,
+        "modifierChance01_Golden": 0.0,
+        "modifierChance01_Repetition": 0.0,
+        "modifierChance01_Battery": 0.0,
+        "modifierChance01_Chain": 0.0
+      },
+      {
+        "symbolKindAsString": "seven",
+        "extraValue_ByteArray": [
+          0
+        ],
+        "spawnChance": 0.5,
+        "modifierChance01_InstantReward": 0.0,
+        "modifierChance01_CloverTicket": 0.0,
+        "modifierChance01_Golden": 0.0,
+        "modifierChance01_Repetition": 0.0,
+        "modifierChance01_Battery": 0.0,
+        "modifierChance01_Chain": 0.0
+      },
+      {
+        "symbolKindAsString": "six",
+        "extraValue_ByteArray": [
+          0
+        ],
+        "spawnChance": 0.0,
+        "modifierChance01_InstantReward": 0.0,
+        "modifierChance01_CloverTicket": 0.0,
+        "modifierChance01_Golden": 0.0,
+        "modifierChance01_Repetition": 0.0,
+        "modifierChance01_Battery": 0.0,
+        "modifierChance01_Chain": 0.0
+      },
+      {
+        "symbolKindAsString": "nine",
+        "extraValue_ByteArray": [
+          0
+        ],
+        "spawnChance": 0.0,
+        "modifierChance01_InstantReward": 0.0,
+        "modifierChance01_CloverTicket": 0.0,
+        "modifierChance01_Golden": 0.0,
+        "modifierChance01_Repetition": 0.0,
+        "modifierChance01_Battery": 0.0,
+        "modifierChance01_Chain": 0.0
+      }
+    ],
+    "allSymbolsMultiplier_ByteArray": [
+      1
+    ],
+    "patternsAvailable_AsString": [
+      "horizontal3",
+      "vertical3",
+      "diagonal3",
+      "horizontal4",
+      "horizontal5",
+      "pyramid",
+      "pyramidInverted",
+      "triangle",
+      "triangleInverted",
+      "eye",
+      "jackpot"
+    ],
+    "patternsData": [
+      {
+        "patternKindAsString": "jackpot",
+        "extraValue": 0.0
+      },
+      {
+        "patternKindAsString": "horizontal2",
+        "extraValue": 0.0
+      },
+      {
+        "patternKindAsString": "horizontal3",
+        "extraValue": 0.0
+      },
+      {
+        "patternKindAsString": "horizontal4",
+        "extraValue": 0.0
+      },
+      {
+        "patternKindAsString": "horizontal5",
+        "extraValue": 0.0
+      },
+      {
+        "patternKindAsString": "vertical2",
+        "extraValue": 0.0
+      },
+      {
+        "patternKindAsString": "vertical3",
+        "extraValue": 0.0
+      },
+      {
+        "patternKindAsString": "diagonal2",
+        "extraValue": 0.0
+      },
+      {
+        "patternKindAsString": "diagonal3",
+        "extraValue": 0.0
+      },
+      {
+        "patternKindAsString": "pyramid",
+        "extraValue": 0.0
+      },
+      {
+        "patternKindAsString": "pyramidInverted",
+        "extraValue": 0.0
+      },
+      {
+        "patternKindAsString": "triangle",
+        "extraValue": 0.0
+      },
+      {
+        "patternKindAsString": "triangleInverted",
+        "extraValue": 0.0
+      },
+      {
+        "patternKindAsString": "snakeUpDown",
+        "extraValue": 0.0
+      },
+      {
+        "patternKindAsString": "snakeDownUp",
+        "extraValue": 0.0
+      },
+      {
+        "patternKindAsString": "eye",
+        "extraValue": 0.0
+      }
+    ],
+    "allPatternsMultiplier_ByteArray": [
+      1
+    ],
+    "_666Chance": 0.014999999664723873,
+    "_666ChanceMaxAbsolute": 0.30000001192092896,
+    "_666BookedSpin": -1,
+    "_666SuppressedSpinsLeft": 0,
+    "_lastRoundHadA666": false,
+    "powerupsData": [
+      {
+        "powerupIdentifierAsString": "Skeleton_Arm1",
+        "boughtTimes": 0,
+        "modifier": 0,
+        "buttonBurnOutCounter": 0,
+        "buttonChargesCounter": 0,
+        "buttonChargesCounter_Absolute": 0,
+        "buttonChargesMax": 0,
+        "resellBonus": 0,
+        "charmSpecificRng": {
+          "seed": 1761217516,
+          "stateIndex": 0,
+          "randomNumber": 1761217516
+        }
+      },
+      {
+        "powerupIdentifierAsString": "Skeleton_Arm2",
+        "boughtTimes": 0,
+        "modifier": 0,
+        "buttonBurnOutCounter": 0,
+        "buttonChargesCounter": 0,
+        "buttonChargesCounter_Absolute": 0,
+        "buttonChargesMax": 0,
+        "resellBonus": 0,
+        "charmSpecificRng": {
+          "seed": 1761217516,
+          "stateIndex": 0,
+          "randomNumber": 1761217516
+        }
+      },
+      {
+        "powerupIdentifierAsString": "Skeleton_Leg1",
+        "boughtTimes": 0,
+        "modifier": 0,
+        "buttonBurnOutCounter": 0,
+        "buttonChargesCounter": 0,
+        "buttonChargesCounter_Absolute": 0,
+        "buttonChargesMax": 0,
+        "resellBonus": 0,
+        "charmSpecificRng": {
+          "seed": 1761217516,
+          "stateIndex": 0,
+          "randomNumber": 1761217516
+        }
+      },
+      {
+        "powerupIdentifierAsString": "Skeleton_Leg2",
+        "boughtTimes": 0,
+        "modifier": 0,
+        "buttonBurnOutCounter": 0,
+        "buttonChargesCounter": 0,
+        "buttonChargesCounter_Absolute": 0,
+        "buttonChargesMax": 0,
+        "resellBonus": 0,
+        "charmSpecificRng": {
+          "seed": 1761217516,
+          "stateIndex": 0,
+          "randomNumber": 1761217516
+        }
+      },
+      {
+        "powerupIdentifierAsString": "Skeleton_Head",
+        "boughtTimes": 0,
+        "modifier": 0,
+        "buttonBurnOutCounter": 0,
+        "buttonChargesCounter": 0,
+        "buttonChargesCounter_Absolute": 0,
+        "buttonChargesMax": 0,
+        "resellBonus": 0,
+        "charmSpecificRng": {
+          "seed": 1761217516,
+          "stateIndex": 0,
+          "randomNumber": 1761217516
+        }
+      },
+      {
+        "powerupIdentifierAsString": "Ankh",
+        "boughtTimes": 0,
+        "modifier": 0,
+        "buttonBurnOutCounter": 0,
+        "buttonChargesCounter": 0,
+        "buttonChargesCounter_Absolute": 0,
+        "buttonChargesMax": 0,
+        "resellBonus": 0,
+        "charmSpecificRng": {
+          "seed": 1761217516,
+          "stateIndex": 0,
+          "randomNumber": 1761217516
+        }
+      },
+      {
+        "powerupIdentifierAsString": "HorseShoe",
+        "boughtTimes": 0,
+        "modifier": 0,
+        "buttonBurnOutCounter": 0,
+        "buttonChargesCounter": 0,
+        "buttonChargesCounter_Absolute": 0,
+        "buttonChargesMax": 0,
+        "resellBonus": 0,
+        "charmSpecificRng": {
+          "seed": 1761217516,
+          "stateIndex": 0,
+          "randomNumber": 1761217516
+        }
+      },
+      {
+        "powerupIdentifierAsString": "HorseShoeGold",
+        "boughtTimes": 0,
+        "modifier": 0,
+        "buttonBurnOutCounter": 0,
+        "buttonChargesCounter": 0,
+        "buttonChargesCounter_Absolute": 0,
+        "buttonChargesMax": 2,
+        "resellBonus": 0,
+        "charmSpecificRng": {
+          "seed": 1761217516,
+          "stateIndex": 0,
+          "randomNumber": 1761217516
+        }
+      },
+      {
+        "powerupIdentifierAsString": "HamsaUpside",
+        "boughtTimes": 0,
+        "modifier": 0,
+        "buttonBurnOutCounter": 0,
+        "buttonChargesCounter": 0,
+        "buttonChargesCounter_Absolute": 0,
+        "buttonChargesMax": 0,
+        "resellBonus": 0,
+        "charmSpecificRng": {
+          "seed": 1761217516,
+          "stateIndex": 0,
+          "randomNumber": 1761217516
+        }
+      },
+      {
+        "powerupIdentifierAsString": "HamsaInverted",
+        "boughtTimes": 0,
+        "modifier": 0,
+        "buttonBurnOutCounter": 0,
+        "buttonChargesCounter": 0,
+        "buttonChargesCounter_Absolute": 0,
+        "buttonChargesMax": 0,
+        "resellBonus": 0,
+        "charmSpecificRng": {
+          "seed": 1761217516,
+          "stateIndex": 0,
+          "randomNumber": 1761217516
+        }
+      },
+      {
+        "powerupIdentifierAsString": "LuckyCat",
+        "boughtTimes": 0,
+        "modifier": 0,
+        "buttonBurnOutCounter": 0,
+        "buttonChargesCounter": 0,
+        "buttonChargesCounter_Absolute": 0,
+        "buttonChargesMax": 0,
+        "resellBonus": 0,
+        "charmSpecificRng": {
+          "seed": 1761217516,
+          "stateIndex": 0,
+          "randomNumber": 1761217516
+        }
+      },
+      {
+        "powerupIdentifierAsString": "LuckyCatFat",
+        "boughtTimes": 0,
+        "modifier": 0,
+        "buttonBurnOutCounter": 0,
+        "buttonChargesCounter": 0,
+        "buttonChargesCounter_Absolute": 0,
+        "buttonChargesMax": 0,
+        "resellBonus": 0,
+        "charmSpecificRng": {
+          "seed": 1761217516,
+          "stateIndex": 0,
+          "randomNumber": 1761217516
+        }
+      },
+      {
+        "powerupIdentifierAsString": "LuckyCatSwole",
+        "boughtTimes": 0,
+        "modifier": 0,
+        "buttonBurnOutCounter": 0,
+        "buttonChargesCounter": 0,
+        "buttonChargesCounter_Absolute": 0,
+        "buttonChargesMax": 0,
+        "resellBonus": 0,
+        "charmSpecificRng": {
+          "seed": 1761217516,
+          "stateIndex": 0,
+          "randomNumber": 1761217516
+        }
+      },
+      {
+        "powerupIdentifierAsString": "OneTrickPony",
+        "boughtTimes": 0,
+        "modifier": 0,
+        "buttonBurnOutCounter": 0,
+        "buttonChargesCounter": 0,
+        "buttonChargesCounter_Absolute": 0,
+        "buttonChargesMax": 0,
+        "resellBonus": 0,
+        "charmSpecificRng": {
+          "seed": 1761217516,
+          "stateIndex": 0,
+          "randomNumber": 1761217516
+        }
+      },
+      {
+        "powerupIdentifierAsString": "RedCrystal",
+        "boughtTimes": 0,
+        "modifier": 0,
+        "buttonBurnOutCounter": 0,
+        "buttonChargesCounter": 0,
+        "buttonChargesCounter_Absolute": 0,
+        "buttonChargesMax": 1,
+        "resellBonus": 0,
+        "charmSpecificRng": {
+          "seed": 1761217516,
+          "stateIndex": 0,
+          "randomNumber": 1761217516
+        }
+      },
+      {
+        "powerupIdentifierAsString": "TarotDeck",
+        "boughtTimes": 0,
+        "modifier": 0,
+        "buttonBurnOutCounter": 0,
+        "buttonChargesCounter": 0,
+        "buttonChargesCounter_Absolute": 0,
+        "buttonChargesMax": 0,
+        "resellBonus": 0,
+        "charmSpecificRng": {
+          "seed": 1761217516,
+          "stateIndex": 0,
+          "randomNumber": 1761217516
+        }
+      },
+      {
+        "powerupIdentifierAsString": "PoopBeetle",
+        "boughtTimes": 0,
+        "modifier": 0,
+        "buttonBurnOutCounter": 0,
+        "buttonChargesCounter": 0,
+        "buttonChargesCounter_Absolute": 0,
+        "buttonChargesMax": 0,
+        "resellBonus": 0,
+        "charmSpecificRng": {
+          "seed": 1761217516,
+          "stateIndex": 0,
+          "randomNumber": 1761217516
+        }
+      },
+      {
+        "powerupIdentifierAsString": "GrandmasPurse",
+        "boughtTimes": 0,
+        "modifier": 0,
+        "buttonBurnOutCounter": 0,
+        "buttonChargesCounter": 0,
+        "buttonChargesCounter_Absolute": 0,
+        "buttonChargesMax": 0,
+        "resellBonus": 0,
+        "charmSpecificRng": {
+          "seed": 1761217516,
+          "stateIndex": 0,
+          "randomNumber": 1761217516
+        }
+      },
+      {
+        "powerupIdentifierAsString": "Pentacle",
+        "boughtTimes": 0,
+        "modifier": 0,
+        "buttonBurnOutCounter": 0,
+        "buttonChargesCounter": 0,
+        "buttonChargesCounter_Absolute": 0,
+        "buttonChargesMax": 0,
+        "resellBonus": 0,
+        "charmSpecificRng": {
+          "seed": 1761217516,
+          "stateIndex": 0,
+          "randomNumber": 1761217516
+        }
+      },
+      {
+        "powerupIdentifierAsString": "HouseContract",
+        "boughtTimes": 0,
+        "modifier": 0,
+        "buttonBurnOutCounter": 0,
+        "buttonChargesCounter": 0,
+        "buttonChargesCounter_Absolute": 0,
+        "buttonChargesMax": 0,
+        "resellBonus": 0,
+        "charmSpecificRng": {
+          "seed": 1761217516,
+          "stateIndex": 0,
+          "randomNumber": 1761217516
+        }
+      },
+      {
+        "powerupIdentifierAsString": "Button2X",
+        "boughtTimes": 0,
+        "modifier": 0,
+        "buttonBurnOutCounter": 0,
+        "buttonChargesCounter": 0,
+        "buttonChargesCounter_Absolute": 0,
+        "buttonChargesMax": 0,
+        "resellBonus": 0,
+        "charmSpecificRng": {
+          "seed": 1761217516,
+          "stateIndex": 0,
+          "randomNumber": 1761217516
+        }
+      },
+      {
+        "powerupIdentifierAsString": "DearDiary",
+        "boughtTimes": 0,
+        "modifier": 0,
+        "buttonBurnOutCounter": 0,
+        "buttonChargesCounter": 0,
+        "buttonChargesCounter_Absolute": 0,
+        "buttonChargesMax": 0,
+        "resellBonus": 0,
+        "charmSpecificRng": {
+          "seed": 1761217516,
+          "stateIndex": 0,
+          "randomNumber": 1761217516
+        }
+      },
+      {
+        "powerupIdentifierAsString": "Megaphone",
+        "boughtTimes": 0,
+        "modifier": 0,
+        "buttonBurnOutCounter": 0,
+        "buttonChargesCounter": 0,
+        "buttonChargesCounter_Absolute": 0,
+        "buttonChargesMax": 0,
+        "resellBonus": 0,
+        "charmSpecificRng": {
+          "seed": 1761217516,
+          "stateIndex": 0,
+          "randomNumber": 1761217516
+        }
+      },
+      {
+        "powerupIdentifierAsString": "SuperCapacitor",
+        "boughtTimes": 0,
+        "modifier": 0,
+        "buttonBurnOutCounter": 0,
+        "buttonChargesCounter": 0,
+        "buttonChargesCounter_Absolute": 0,
+        "buttonChargesMax": 0,
+        "resellBonus": 0,
+        "charmSpecificRng": {
+          "seed": 1761217516,
+          "stateIndex": 0,
+          "randomNumber": 1761217516
+        }
+      },
+      {
+        "powerupIdentifierAsString": "CrankGenerator",
+        "boughtTimes": 0,
+        "modifier": 0,
+        "buttonBurnOutCounter": 0,
+        "buttonChargesCounter": 0,
+        "buttonChargesCounter_Absolute": 0,
+        "buttonChargesMax": 0,
+        "resellBonus": 0,
+        "charmSpecificRng": {
+          "seed": 1761217516,
+          "stateIndex": 0,
+          "randomNumber": 1761217516
+        }
+      },
+      {
+        "powerupIdentifierAsString": "GrattaEVinci_ScratchAndWin",
+        "boughtTimes": 0,
+        "modifier": 0,
+        "buttonBurnOutCounter": 0,
+        "buttonChargesCounter": 0,
+        "buttonChargesCounter_Absolute": 0,
+        "buttonChargesMax": 0,
+        "resellBonus": 0,
+        "charmSpecificRng": {
+          "seed": 1761217516,
+          "stateIndex": 0,
+          "randomNumber": 1761217516
+        }
+      },
+      {
+        "powerupIdentifierAsString": "Stonks",
+        "boughtTimes": 0,
+        "modifier": 0,
+        "buttonBurnOutCounter": 0,
+        "buttonChargesCounter": 0,
+        "buttonChargesCounter_Absolute": 0,
+        "buttonChargesMax": 0,
+        "resellBonus": 0,
+        "charmSpecificRng": {
+          "seed": 1761217516,
+          "stateIndex": 0,
+          "randomNumber": 1761217516
+        }
+      },
+      {
+        "powerupIdentifierAsString": "CarBattery",
+        "boughtTimes": 0,
+        "modifier": 0,
+        "buttonBurnOutCounter": 0,
+        "buttonChargesCounter": 0,
+        "buttonChargesCounter_Absolute": 0,
+        "buttonChargesMax": 0,
+        "resellBonus": 0,
+        "charmSpecificRng": {
+          "seed": 1761217516,
+          "stateIndex": 0,
+          "randomNumber": 1761217516
+        }
+      },
+      {
+        "powerupIdentifierAsString": "ExpiredMedicines",
+        "boughtTimes": 0,
+        "modifier": 0,
+        "buttonBurnOutCounter": 0,
+        "buttonChargesCounter": 0,
+        "buttonChargesCounter_Absolute": 0,
+        "buttonChargesMax": 0,
+        "resellBonus": 0,
+        "charmSpecificRng": {
+          "seed": 1761217516,
+          "stateIndex": 0,
+          "randomNumber": 1761217516
+        }
+      },
+      {
+        "powerupIdentifierAsString": "GoldenHand_MidasTouch",
+        "boughtTimes": 0,
+        "modifier": 0,
+        "buttonBurnOutCounter": 0,
+        "buttonChargesCounter": 0,
+        "buttonChargesCounter_Absolute": 0,
+        "buttonChargesMax": 4,
+        "resellBonus": 0,
+        "charmSpecificRng": {
+          "seed": 1761217516,
+          "stateIndex": 0,
+          "randomNumber": 1761217516
+        }
+      },
+      {
+        "powerupIdentifierAsString": "PissJar",
+        "boughtTimes": 0,
+        "modifier": 0,
+        "buttonBurnOutCounter": 0,
+        "buttonChargesCounter": 0,
+        "buttonChargesCounter_Absolute": 0,
+        "buttonChargesMax": 5,
+        "resellBonus": 0,
+        "charmSpecificRng": {
+          "seed": 1761217516,
+          "stateIndex": 0,
+          "randomNumber": 1761217516
+        }
+      },
+      {
+        "powerupIdentifierAsString": "PoopJar",
+        "boughtTimes": 0,
+        "modifier": 0,
+        "buttonBurnOutCounter": 0,
+        "buttonChargesCounter": 0,
+        "buttonChargesCounter_Absolute": 0,
+        "buttonChargesMax": 5,
+        "resellBonus": 0,
+        "charmSpecificRng": {
+          "seed": 1761217516,
+          "stateIndex": 0,
+          "randomNumber": 1761217516
+        }
+      },
+      {
+        "powerupIdentifierAsString": "Painkillers",
+        "boughtTimes": 0,
+        "modifier": 0,
+        "buttonBurnOutCounter": 0,
+        "buttonChargesCounter": 0,
+        "buttonChargesCounter_Absolute": 0,
+        "buttonChargesMax": 0,
+        "resellBonus": 0,
+        "charmSpecificRng": {
+          "seed": 1761217516,
+          "stateIndex": 0,
+          "randomNumber": 1761217516
+        }
+      },
+      {
+        "powerupIdentifierAsString": "Wallet",
+        "boughtTimes": 0,
+        "modifier": 0,
+        "buttonBurnOutCounter": 0,
+        "buttonChargesCounter": 0,
+        "buttonChargesCounter_Absolute": 0,
+        "buttonChargesMax": 0,
+        "resellBonus": 0,
+        "charmSpecificRng": {
+          "seed": 1761217516,
+          "stateIndex": 0,
+          "randomNumber": 1761217516
+        }
+      },
+      {
+        "powerupIdentifierAsString": "MoneyBriefCase",
+        "boughtTimes": 0,
+        "modifier": 0,
+        "buttonBurnOutCounter": 0,
+        "buttonChargesCounter": 0,
+        "buttonChargesCounter_Absolute": 0,
+        "buttonChargesMax": 0,
+        "resellBonus": 0,
+        "charmSpecificRng": {
+          "seed": 1761217516,
+          "stateIndex": 0,
+          "randomNumber": 1761217516
+        }
+      },
+      {
+        "powerupIdentifierAsString": "Calendar",
+        "boughtTimes": 0,
+        "modifier": 0,
+        "buttonBurnOutCounter": 0,
+        "buttonChargesCounter": 0,
+        "buttonChargesCounter_Absolute": 0,
+        "buttonChargesMax": 0,
+        "resellBonus": 0,
+        "charmSpecificRng": {
+          "seed": 1761217516,
+          "stateIndex": 0,
+          "randomNumber": 1761217516
+        }
+      },
+      {
+        "powerupIdentifierAsString": "YellowStar",
+        "boughtTimes": 0,
+        "modifier": 0,
+        "buttonBurnOutCounter": 0,
+        "buttonChargesCounter": 0,
+        "buttonChargesCounter_Absolute": 0,
+        "buttonChargesMax": 0,
+        "resellBonus": 0,
+        "charmSpecificRng": {
+          "seed": 1761217516,
+          "stateIndex": 0,
+          "randomNumber": 1761217516
+        }
+      },
+      {
+        "powerupIdentifierAsString": "Wolf",
+        "boughtTimes": 0,
+        "modifier": 0,
+        "buttonBurnOutCounter": 0,
+        "buttonChargesCounter": 0,
+        "buttonChargesCounter_Absolute": 0,
+        "buttonChargesMax": 0,
+        "resellBonus": 0,
+        "charmSpecificRng": {
+          "seed": 1761217516,
+          "stateIndex": 0,
+          "randomNumber": 1761217516
+        }
+      },
+      {
+        "powerupIdentifierAsString": "FortuneCookie",
+        "boughtTimes": 0,
+        "modifier": 0,
+        "buttonBurnOutCounter": 0,
+        "buttonChargesCounter": 0,
+        "buttonChargesCounter_Absolute": 0,
+        "buttonChargesMax": 0,
+        "resellBonus": 0,
+        "charmSpecificRng": {
+          "seed": 1761217516,
+          "stateIndex": 0,
+          "randomNumber": 1761217516
+        }
+      },
+      {
+        "powerupIdentifierAsString": "FideltyCard",
+        "boughtTimes": 0,
+        "modifier": 0,
+        "buttonBurnOutCounter": 0,
+        "buttonChargesCounter": 0,
+        "buttonChargesCounter_Absolute": 0,
+        "buttonChargesMax": 0,
+        "resellBonus": 0,
+        "charmSpecificRng": {
+          "seed": 1761217516,
+          "stateIndex": 0,
+          "randomNumber": 1761217516
+        }
+      },
+      {
+        "powerupIdentifierAsString": "Sardines",
+        "boughtTimes": 0,
+        "modifier": 0,
+        "buttonBurnOutCounter": 0,
+        "buttonChargesCounter": 0,
+        "buttonChargesCounter_Absolute": 0,
+        "buttonChargesMax": 0,
+        "resellBonus": 0,
+        "charmSpecificRng": {
+          "seed": 1761217516,
+          "stateIndex": 0,
+          "randomNumber": 1761217516
+        }
+      },
+      {
+        "powerupIdentifierAsString": "BrokenCalculator",
+        "boughtTimes": 0,
+        "modifier": 0,
+        "buttonBurnOutCounter": 0,
+        "buttonChargesCounter": 0,
+        "buttonChargesCounter_Absolute": 0,
+        "buttonChargesMax": 0,
+        "resellBonus": 0,
+        "charmSpecificRng": {
+          "seed": 1761217516,
+          "stateIndex": 0,
+          "randomNumber": 1761217516
+        }
+      },
+      {
+        "powerupIdentifierAsString": "TheCollector",
+        "boughtTimes": 0,
+        "modifier": 0,
+        "buttonBurnOutCounter": 0,
+        "buttonChargesCounter": 0,
+        "buttonChargesCounter_Absolute": 0,
+        "buttonChargesMax": 0,
+        "resellBonus": 0,
+        "charmSpecificRng": {
+          "seed": 1761217516,
+          "stateIndex": 0,
+          "randomNumber": 1761217516
+        }
+      },
+      {
+        "powerupIdentifierAsString": "FortuneChanneler",
+        "boughtTimes": 0,
+        "modifier": 0,
+        "buttonBurnOutCounter": 0,
+        "buttonChargesCounter": 0,
+        "buttonChargesCounter_Absolute": 0,
+        "buttonChargesMax": 0,
+        "resellBonus": 0,
+        "charmSpecificRng": {
+          "seed": 1761217516,
+          "stateIndex": 0,
+          "randomNumber": 1761217516
+        }
+      },
+      {
+        "powerupIdentifierAsString": "Nose",
+        "boughtTimes": 0,
+        "modifier": 0,
+        "buttonBurnOutCounter": 0,
+        "buttonChargesCounter": 0,
+        "buttonChargesCounter_Absolute": 0,
+        "buttonChargesMax": 0,
+        "resellBonus": 0,
+        "charmSpecificRng": {
+          "seed": 1761217516,
+          "stateIndex": 0,
+          "randomNumber": 1761217516
+        }
+      },
+      {
+        "powerupIdentifierAsString": "EyeJar",
+        "boughtTimes": 0,
+        "modifier": 0,
+        "buttonBurnOutCounter": 0,
+        "buttonChargesCounter": 0,
+        "buttonChargesCounter_Absolute": 0,
+        "buttonChargesMax": 0,
+        "resellBonus": 0,
+        "charmSpecificRng": {
+          "seed": 1761217516,
+          "stateIndex": 0,
+          "randomNumber": 1761217516
+        }
+      },
+      {
+        "powerupIdentifierAsString": "VoiceMailTape",
+        "boughtTimes": 0,
+        "modifier": 0,
+        "buttonBurnOutCounter": 0,
+        "buttonChargesCounter": 0,
+        "buttonChargesCounter_Absolute": 0,
+        "buttonChargesMax": 0,
+        "resellBonus": 0,
+        "charmSpecificRng": {
+          "seed": 1761217516,
+          "stateIndex": 0,
+          "randomNumber": 1761217516
+        }
+      },
+      {
+        "powerupIdentifierAsString": "Garbage",
+        "boughtTimes": 0,
+        "modifier": 0,
+        "buttonBurnOutCounter": 0,
+        "buttonChargesCounter": 0,
+        "buttonChargesCounter_Absolute": 0,
+        "buttonChargesMax": 0,
+        "resellBonus": 0,
+        "charmSpecificRng": {
+          "seed": 1761217516,
+          "stateIndex": 0,
+          "randomNumber": 1761217516
+        }
+      },
+      {
+        "powerupIdentifierAsString": "AllIn",
+        "boughtTimes": 0,
+        "modifier": 0,
+        "buttonBurnOutCounter": 0,
+        "buttonChargesCounter": 0,
+        "buttonChargesCounter_Absolute": 0,
+        "buttonChargesMax": 0,
+        "resellBonus": 0,
+        "charmSpecificRng": {
+          "seed": 1761217516,
+          "stateIndex": 0,
+          "randomNumber": 1761217516
+        }
+      },
+      {
+        "powerupIdentifierAsString": "RingBell",
+        "boughtTimes": 0,
+        "modifier": 0,
+        "buttonBurnOutCounter": 0,
+        "buttonChargesCounter": 0,
+        "buttonChargesCounter_Absolute": 0,
+        "buttonChargesMax": 3,
+        "resellBonus": 0,
+        "charmSpecificRng": {
+          "seed": 1761217516,
+          "stateIndex": 0,
+          "randomNumber": 1761217516
+        }
+      },
+      {
+        "powerupIdentifierAsString": "ConsolationPrize",
+        "boughtTimes": 0,
+        "modifier": 0,
+        "buttonBurnOutCounter": 0,
+        "buttonChargesCounter": 0,
+        "buttonChargesCounter_Absolute": 0,
+        "buttonChargesMax": 0,
+        "resellBonus": 0,
+        "charmSpecificRng": {
+          "seed": 1761217516,
+          "stateIndex": 0,
+          "randomNumber": 1761217516
+        }
+      },
+      {
+        "powerupIdentifierAsString": "DarkLotus",
+        "boughtTimes": 0,
+        "modifier": 0,
+        "buttonBurnOutCounter": 0,
+        "buttonChargesCounter": 0,
+        "buttonChargesCounter_Absolute": 0,
+        "buttonChargesMax": 0,
+        "resellBonus": 0,
+        "charmSpecificRng": {
+          "seed": 1761217516,
+          "stateIndex": 0,
+          "randomNumber": 1761217516
+        }
+      },
+      {
+        "powerupIdentifierAsString": "StepsCounter",
+        "boughtTimes": 0,
+        "modifier": 0,
+        "buttonBurnOutCounter": 0,
+        "buttonChargesCounter": 0,
+        "buttonChargesCounter_Absolute": 0,
+        "buttonChargesMax": 0,
+        "resellBonus": 0,
+        "charmSpecificRng": {
+          "seed": 1761217516,
+          "stateIndex": 0,
+          "randomNumber": 1761217516
+        }
+      },
+      {
+        "powerupIdentifierAsString": "WeirdClock",
+        "boughtTimes": 0,
+        "modifier": 0,
+        "buttonBurnOutCounter": 0,
+        "buttonChargesCounter": 0,
+        "buttonChargesCounter_Absolute": 0,
+        "buttonChargesMax": 12,
+        "resellBonus": 0,
+        "charmSpecificRng": {
+          "seed": 1761217516,
+          "stateIndex": 0,
+          "randomNumber": 1761217516
+        }
+      },
+      {
+        "powerupIdentifierAsString": "MusicTape",
+        "boughtTimes": 0,
+        "modifier": 0,
+        "buttonBurnOutCounter": 0,
+        "buttonChargesCounter": 0,
+        "buttonChargesCounter_Absolute": 0,
+        "buttonChargesMax": 0,
+        "resellBonus": 0,
+        "charmSpecificRng": {
+          "seed": 1761217516,
+          "stateIndex": 0,
+          "randomNumber": 1761217516
+        }
+      },
+      {
+        "powerupIdentifierAsString": "ShoppingCart",
+        "boughtTimes": 0,
+        "modifier": 0,
+        "buttonBurnOutCounter": 0,
+        "buttonChargesCounter": 0,
+        "buttonChargesCounter_Absolute": 0,
+        "buttonChargesMax": 0,
+        "resellBonus": 0,
+        "charmSpecificRng": {
+          "seed": 1761217516,
+          "stateIndex": 0,
+          "randomNumber": 1761217516
+        }
+      },
+      {
+        "powerupIdentifierAsString": "CrowBar",
+        "boughtTimes": 0,
+        "modifier": 0,
+        "buttonBurnOutCounter": 0,
+        "buttonChargesCounter": 0,
+        "buttonChargesCounter_Absolute": 0,
+        "buttonChargesMax": 0,
+        "resellBonus": 0,
+        "charmSpecificRng": {
+          "seed": 1761217516,
+          "stateIndex": 0,
+          "randomNumber": 1761217516
+        }
+      },
+      {
+        "powerupIdentifierAsString": "DiscA",
+        "boughtTimes": 0,
+        "modifier": 0,
+        "buttonBurnOutCounter": 0,
+        "buttonChargesCounter": 0,
+        "buttonChargesCounter_Absolute": 0,
+        "buttonChargesMax": 0,
+        "resellBonus": 0,
+        "charmSpecificRng": {
+          "seed": 1761217516,
+          "stateIndex": 0,
+          "randomNumber": 1761217516
+        }
+      },
+      {
+        "powerupIdentifierAsString": "DiscB",
+        "boughtTimes": 0,
+        "modifier": 0,
+        "buttonBurnOutCounter": 0,
+        "buttonChargesCounter": 0,
+        "buttonChargesCounter_Absolute": 0,
+        "buttonChargesMax": 0,
+        "resellBonus": 0,
+        "charmSpecificRng": {
+          "seed": 1761217516,
+          "stateIndex": 0,
+          "randomNumber": 1761217516
+        }
+      },
+      {
+        "powerupIdentifierAsString": "DiscC",
+        "boughtTimes": 0,
+        "modifier": 0,
+        "buttonBurnOutCounter": 0,
+        "buttonChargesCounter": 0,
+        "buttonChargesCounter_Absolute": 0,
+        "buttonChargesMax": 0,
+        "resellBonus": 0,
+        "charmSpecificRng": {
+          "seed": 1761217516,
+          "stateIndex": 0,
+          "randomNumber": 1761217516
+        }
+      },
+      {
+        "powerupIdentifierAsString": "CardboardHouse",
+        "boughtTimes": 0,
+        "modifier": 0,
+        "buttonBurnOutCounter": 0,
+        "buttonChargesCounter": 0,
+        "buttonChargesCounter_Absolute": 0,
+        "buttonChargesMax": 0,
+        "resellBonus": 0,
+        "charmSpecificRng": {
+          "seed": 1761217516,
+          "stateIndex": 0,
+          "randomNumber": 1761217516
+        }
+      },
+      {
+        "powerupIdentifierAsString": "Cigarettes",
+        "boughtTimes": 0,
+        "modifier": 0,
+        "buttonBurnOutCounter": 0,
+        "buttonChargesCounter": 0,
+        "buttonChargesCounter_Absolute": 0,
+        "buttonChargesMax": 0,
+        "resellBonus": 0,
+        "charmSpecificRng": {
+          "seed": 1761217516,
+          "stateIndex": 0,
+          "randomNumber": 1761217516
+        }
+      },
+      {
+        "powerupIdentifierAsString": "ElectricityCounter",
+        "boughtTimes": 0,
+        "modifier": 0,
+        "buttonBurnOutCounter": 0,
+        "buttonChargesCounter": 0,
+        "buttonChargesCounter_Absolute": 0,
+        "buttonChargesMax": 0,
+        "resellBonus": 0,
+        "charmSpecificRng": {
+          "seed": 1761217516,
+          "stateIndex": 0,
+          "randomNumber": 1761217516
+        }
+      },
+      {
+        "powerupIdentifierAsString": "PotatoPower",
+        "boughtTimes": 0,
+        "modifier": 0,
+        "buttonBurnOutCounter": 0,
+        "buttonChargesCounter": 0,
+        "buttonChargesCounter_Absolute": 0,
+        "buttonChargesMax": 0,
+        "resellBonus": 0,
+        "charmSpecificRng": {
+          "seed": 1761217516,
+          "stateIndex": 0,
+          "randomNumber": 1761217516
+        }
+      },
+      {
+        "powerupIdentifierAsString": "FakeCoin",
+        "boughtTimes": 0,
+        "modifier": 0,
+        "buttonBurnOutCounter": 0,
+        "buttonChargesCounter": 0,
+        "buttonChargesCounter_Absolute": 0,
+        "buttonChargesMax": 0,
+        "resellBonus": 0,
+        "charmSpecificRng": {
+          "seed": 1761217516,
+          "stateIndex": 0,
+          "randomNumber": 1761217516
+        }
+      },
+      {
+        "powerupIdentifierAsString": "AncientCoin",
+        "boughtTimes": 0,
+        "modifier": 0,
+        "buttonBurnOutCounter": 0,
+        "buttonChargesCounter": 0,
+        "buttonChargesCounter_Absolute": 0,
+        "buttonChargesMax": 1,
+        "resellBonus": 0,
+        "charmSpecificRng": {
+          "seed": 1761217516,
+          "stateIndex": 0,
+          "randomNumber": 1761217516
+        }
+      },
+      {
+        "powerupIdentifierAsString": "CatTreats",
+        "boughtTimes": 0,
+        "modifier": 0,
+        "buttonBurnOutCounter": 0,
+        "buttonChargesCounter": 0,
+        "buttonChargesCounter_Absolute": 0,
+        "buttonChargesMax": 0,
+        "resellBonus": 0,
+        "charmSpecificRng": {
+          "seed": 1761217516,
+          "stateIndex": 0,
+          "randomNumber": 1761217516
+        }
+      },
+      {
+        "powerupIdentifierAsString": "Depression",
+        "boughtTimes": 0,
+        "modifier": 0,
+        "buttonBurnOutCounter": 0,
+        "buttonChargesCounter": 0,
+        "buttonChargesCounter_Absolute": 0,
+        "buttonChargesMax": 0,
+        "resellBonus": 0,
+        "charmSpecificRng": {
+          "seed": 1761217516,
+          "stateIndex": 0,
+          "randomNumber": 1761217516
+        }
+      },
+      {
+        "powerupIdentifierAsString": "ToyTrain",
+        "boughtTimes": 0,
+        "modifier": 0,
+        "buttonBurnOutCounter": 0,
+        "buttonChargesCounter": 0,
+        "buttonChargesCounter_Absolute": 0,
+        "buttonChargesMax": 0,
+        "resellBonus": 0,
+        "charmSpecificRng": {
+          "seed": 1761217516,
+          "stateIndex": 0,
+          "randomNumber": 1761217516
+        }
+      },
+      {
+        "powerupIdentifierAsString": "LocomotiveSteam",
+        "boughtTimes": 0,
+        "modifier": 0,
+        "buttonBurnOutCounter": 0,
+        "buttonChargesCounter": 0,
+        "buttonChargesCounter_Absolute": 0,
+        "buttonChargesMax": 0,
+        "resellBonus": 0,
+        "charmSpecificRng": {
+          "seed": 1761217516,
+          "stateIndex": 0,
+          "randomNumber": 1761217516
+        }
+      },
+      {
+        "powerupIdentifierAsString": "LocomotiveDiesel",
+        "boughtTimes": 0,
+        "modifier": 0,
+        "buttonBurnOutCounter": 0,
+        "buttonChargesCounter": 0,
+        "buttonChargesCounter_Absolute": 0,
+        "buttonChargesMax": 0,
+        "resellBonus": 0,
+        "charmSpecificRng": {
+          "seed": 1761217516,
+          "stateIndex": 0,
+          "randomNumber": 1761217516
+        }
+      },
+      {
+        "powerupIdentifierAsString": "CloverVoucher",
+        "boughtTimes": 0,
+        "modifier": 0,
+        "buttonBurnOutCounter": 0,
+        "buttonChargesCounter": 0,
+        "buttonChargesCounter_Absolute": 0,
+        "buttonChargesMax": 0,
+        "resellBonus": 0,
+        "charmSpecificRng": {
+          "seed": 1761217516,
+          "stateIndex": 0,
+          "randomNumber": 1761217516
+        }
+      },
+      {
+        "powerupIdentifierAsString": "CloverPot",
+        "boughtTimes": 0,
+        "modifier": 0,
+        "buttonBurnOutCounter": 0,
+        "buttonChargesCounter": 0,
+        "buttonChargesCounter_Absolute": 0,
+        "buttonChargesMax": 0,
+        "resellBonus": 0,
+        "charmSpecificRng": {
+          "seed": 1761217516,
+          "stateIndex": 0,
+          "randomNumber": 1761217516
+        }
+      },
+      {
+        "powerupIdentifierAsString": "CloverPet",
+        "boughtTimes": 0,
+        "modifier": 0,
+        "buttonBurnOutCounter": 0,
+        "buttonChargesCounter": 0,
+        "buttonChargesCounter_Absolute": 0,
+        "buttonChargesMax": 0,
+        "resellBonus": 0,
+        "charmSpecificRng": {
+          "seed": 1761217516,
+          "stateIndex": 0,
+          "randomNumber": 1761217516
+        }
+      },
+      {
+        "powerupIdentifierAsString": "CloversLandPatch",
+        "boughtTimes": 0,
+        "modifier": 0,
+        "buttonBurnOutCounter": 0,
+        "buttonChargesCounter": 0,
+        "buttonChargesCounter_Absolute": 0,
+        "buttonChargesMax": 0,
+        "resellBonus": 0,
+        "charmSpecificRng": {
+          "seed": 1761217516,
+          "stateIndex": 0,
+          "randomNumber": 1761217516
+        }
+      },
+      {
+        "powerupIdentifierAsString": "Mushrooms",
+        "boughtTimes": 0,
+        "modifier": 0,
+        "buttonBurnOutCounter": 0,
+        "buttonChargesCounter": 0,
+        "buttonChargesCounter_Absolute": 0,
+        "buttonChargesMax": 0,
+        "resellBonus": 0,
+        "charmSpecificRng": {
+          "seed": 1761217516,
+          "stateIndex": 0,
+          "randomNumber": 1761217516
+        }
+      },
+      {
+        "powerupIdentifierAsString": "VineSoupShroom",
+        "boughtTimes": 0,
+        "modifier": 0,
+        "buttonBurnOutCounter": 0,
+        "buttonChargesCounter": 0,
+        "buttonChargesCounter_Absolute": 0,
+        "buttonChargesMax": 0,
+        "resellBonus": 0,
+        "charmSpecificRng": {
+          "seed": 1761217516,
+          "stateIndex": 0,
+          "randomNumber": 1761217516
+        }
+      },
+      {
+        "powerupIdentifierAsString": "GiantShroom",
+        "boughtTimes": 0,
+        "modifier": 0,
+        "buttonBurnOutCounter": 0,
+        "buttonChargesCounter": 0,
+        "buttonChargesCounter_Absolute": 0,
+        "buttonChargesMax": 0,
+        "resellBonus": 0,
+        "charmSpecificRng": {
+          "seed": 1761217516,
+          "stateIndex": 0,
+          "randomNumber": 1761217516
+        }
+      },
+      {
+        "powerupIdentifierAsString": "Hole_Circle",
+        "boughtTimes": 0,
+        "modifier": 0,
+        "buttonBurnOutCounter": 0,
+        "buttonChargesCounter": 0,
+        "buttonChargesCounter_Absolute": 0,
+        "buttonChargesMax": 0,
+        "resellBonus": 0,
+        "charmSpecificRng": {
+          "seed": 1761217516,
+          "stateIndex": 0,
+          "randomNumber": 1761217516
+        }
+      },
+      {
+        "powerupIdentifierAsString": "Hole_Romboid",
+        "boughtTimes": 0,
+        "modifier": 0,
+        "buttonBurnOutCounter": 0,
+        "buttonChargesCounter": 0,
+        "buttonChargesCounter_Absolute": 0,
+        "buttonChargesMax": 0,
+        "resellBonus": 0,
+        "charmSpecificRng": {
+          "seed": 1761217516,
+          "stateIndex": 0,
+          "randomNumber": 1761217516
+        }
+      },
+      {
+        "powerupIdentifierAsString": "Hole_Cross",
+        "boughtTimes": 0,
+        "modifier": 0,
+        "buttonBurnOutCounter": 0,
+        "buttonChargesCounter": 0,
+        "buttonChargesCounter_Absolute": 0,
+        "buttonChargesMax": 0,
+        "resellBonus": 0,
+        "charmSpecificRng": {
+          "seed": 1761217516,
+          "stateIndex": 0,
+          "randomNumber": 1761217516
+        }
+      },
+      {
+        "powerupIdentifierAsString": "Rorschach",
+        "boughtTimes": 0,
+        "modifier": 0,
+        "buttonBurnOutCounter": 0,
+        "buttonChargesCounter": 0,
+        "buttonChargesCounter_Absolute": 0,
+        "buttonChargesMax": 0,
+        "resellBonus": 0,
+        "charmSpecificRng": {
+          "seed": 1761217516,
+          "stateIndex": 0,
+          "randomNumber": 1761217516
+        }
+      },
+      {
+        "powerupIdentifierAsString": "AbstractPainting",
+        "boughtTimes": 0,
+        "modifier": 0,
+        "buttonBurnOutCounter": 0,
+        "buttonChargesCounter": 0,
+        "buttonChargesCounter_Absolute": 0,
+        "buttonChargesMax": 0,
+        "resellBonus": 0,
+        "charmSpecificRng": {
+          "seed": 1761217516,
+          "stateIndex": 0,
+          "randomNumber": 1761217516
+        }
+      },
+      {
+        "powerupIdentifierAsString": "Pareidolia",
+        "boughtTimes": 0,
+        "modifier": 0,
+        "buttonBurnOutCounter": 0,
+        "buttonChargesCounter": 0,
+        "buttonChargesCounter_Absolute": 0,
+        "buttonChargesMax": 0,
+        "resellBonus": 0,
+        "charmSpecificRng": {
+          "seed": 1761217516,
+          "stateIndex": 0,
+          "randomNumber": 1761217516
+        }
+      },
+      {
+        "powerupIdentifierAsString": "Hourglass",
+        "boughtTimes": 0,
+        "modifier": 0,
+        "buttonBurnOutCounter": 0,
+        "buttonChargesCounter": 0,
+        "buttonChargesCounter_Absolute": 0,
+        "buttonChargesMax": 0,
+        "resellBonus": 0,
+        "charmSpecificRng": {
+          "seed": 1761217516,
+          "stateIndex": 0,
+          "randomNumber": 1761217516
+        }
+      },
+      {
+        "powerupIdentifierAsString": "FruitBasket",
+        "boughtTimes": 0,
+        "modifier": 0,
+        "buttonBurnOutCounter": 0,
+        "buttonChargesCounter": 0,
+        "buttonChargesCounter_Absolute": 0,
+        "buttonChargesMax": 0,
+        "resellBonus": 0,
+        "charmSpecificRng": {
+          "seed": 1761217516,
+          "stateIndex": 0,
+          "randomNumber": 1761217516
+        }
+      },
+      {
+        "powerupIdentifierAsString": "SevenSinsStone",
+        "boughtTimes": 0,
+        "modifier": 0,
+        "buttonBurnOutCounter": 0,
+        "buttonChargesCounter": 0,
+        "buttonChargesCounter_Absolute": 0,
+        "buttonChargesMax": 0,
+        "resellBonus": 0,
+        "charmSpecificRng": {
+          "seed": 1761217516,
+          "stateIndex": 0,
+          "randomNumber": 1761217516
+        }
+      },
+      {
+        "powerupIdentifierAsString": "Necklace",
+        "boughtTimes": 0,
+        "modifier": 0,
+        "buttonBurnOutCounter": 0,
+        "buttonChargesCounter": 0,
+        "buttonChargesCounter_Absolute": 0,
+        "buttonChargesMax": 0,
+        "resellBonus": 0,
+        "charmSpecificRng": {
+          "seed": 1761217516,
+          "stateIndex": 0,
+          "randomNumber": 1761217516
+        }
+      },
+      {
+        "powerupIdentifierAsString": "CloverBell",
+        "boughtTimes": 0,
+        "modifier": 0,
+        "buttonBurnOutCounter": 0,
+        "buttonChargesCounter": 0,
+        "buttonChargesCounter_Absolute": 0,
+        "buttonChargesMax": 0,
+        "resellBonus": 0,
+        "charmSpecificRng": {
+          "seed": 1761217516,
+          "stateIndex": 0,
+          "randomNumber": 1761217516
+        }
+      },
+      {
+        "powerupIdentifierAsString": "HornChilyRed",
+        "boughtTimes": 0,
+        "modifier": 0,
+        "buttonBurnOutCounter": 0,
+        "buttonChargesCounter": 0,
+        "buttonChargesCounter_Absolute": 0,
+        "buttonChargesMax": 0,
+        "resellBonus": 0,
+        "charmSpecificRng": {
+          "seed": 1761217516,
+          "stateIndex": 0,
+          "randomNumber": 1761217516
+        }
+      },
+      {
+        "powerupIdentifierAsString": "HornChilyGreen",
+        "boughtTimes": 0,
+        "modifier": 0,
+        "buttonBurnOutCounter": 0,
+        "buttonChargesCounter": 0,
+        "buttonChargesCounter_Absolute": 0,
+        "buttonChargesMax": 0,
+        "resellBonus": 0,
+        "charmSpecificRng": {
+          "seed": 1761217516,
+          "stateIndex": 0,
+          "randomNumber": 1761217516
+        }
+      },
+      {
+        "powerupIdentifierAsString": "RottenPepper",
+        "boughtTimes": 0,
+        "modifier": 0,
+        "buttonBurnOutCounter": 0,
+        "buttonChargesCounter": 0,
+        "buttonChargesCounter_Absolute": 0,
+        "buttonChargesMax": 0,
+        "resellBonus": 0,
+        "charmSpecificRng": {
+          "seed": 1761217516,
+          "stateIndex": 0,
+          "randomNumber": 1761217516
+        }
+      },
+      {
+        "powerupIdentifierAsString": "BellPepper",
+        "boughtTimes": 0,
+        "modifier": 0,
+        "buttonBurnOutCounter": 0,
+        "buttonChargesCounter": 0,
+        "buttonChargesCounter_Absolute": 0,
+        "buttonChargesMax": 0,
+        "resellBonus": 0,
+        "charmSpecificRng": {
+          "seed": 1761217516,
+          "stateIndex": 0,
+          "randomNumber": 1761217516
+        }
+      },
+      {
+        "powerupIdentifierAsString": "GoldenPepper",
+        "boughtTimes": 0,
+        "modifier": 0,
+        "buttonBurnOutCounter": 0,
+        "buttonChargesCounter": 0,
+        "buttonChargesCounter_Absolute": 0,
+        "buttonChargesMax": 0,
+        "resellBonus": 0,
+        "charmSpecificRng": {
+          "seed": 1761217516,
+          "stateIndex": 0,
+          "randomNumber": 1761217516
+        }
+      },
+      {
+        "powerupIdentifierAsString": "HornDevil",
+        "boughtTimes": 0,
+        "modifier": 0,
+        "buttonBurnOutCounter": 0,
+        "buttonChargesCounter": 0,
+        "buttonChargesCounter_Absolute": 0,
+        "buttonChargesMax": 0,
+        "resellBonus": 0,
+        "charmSpecificRng": {
+          "seed": 1761217516,
+          "stateIndex": 0,
+          "randomNumber": 1761217516
+        }
+      },
+      {
+        "powerupIdentifierAsString": "Necronomicon",
+        "boughtTimes": 0,
+        "modifier": 0,
+        "buttonBurnOutCounter": 0,
+        "buttonChargesCounter": 0,
+        "buttonChargesCounter_Absolute": 0,
+        "buttonChargesMax": 0,
+        "resellBonus": 0,
+        "charmSpecificRng": {
+          "seed": 1761217516,
+          "stateIndex": 0,
+          "randomNumber": 1761217516
+        }
+      },
+      {
+        "powerupIdentifierAsString": "HolyBible",
+        "boughtTimes": 0,
+        "modifier": 0,
+        "buttonBurnOutCounter": 0,
+        "buttonChargesCounter": 0,
+        "buttonChargesCounter_Absolute": 0,
+        "buttonChargesMax": 0,
+        "resellBonus": 0,
+        "charmSpecificRng": {
+          "seed": 1761217516,
+          "stateIndex": 0,
+          "randomNumber": 1761217516
+        }
+      },
+      {
+        "powerupIdentifierAsString": "Baphomet",
+        "boughtTimes": 0,
+        "modifier": 0,
+        "buttonBurnOutCounter": 0,
+        "buttonChargesCounter": 0,
+        "buttonChargesCounter_Absolute": 0,
+        "buttonChargesMax": 0,
+        "resellBonus": 0,
+        "charmSpecificRng": {
+          "seed": 1761217516,
+          "stateIndex": 0,
+          "randomNumber": 1761217516
+        }
+      },
+      {
+        "powerupIdentifierAsString": "Cross",
+        "boughtTimes": 0,
+        "modifier": 0,
+        "buttonBurnOutCounter": 0,
+        "buttonChargesCounter": 0,
+        "buttonChargesCounter_Absolute": 0,
+        "buttonChargesMax": 2,
+        "resellBonus": 0,
+        "charmSpecificRng": {
+          "seed": 1761217516,
+          "stateIndex": 0,
+          "randomNumber": 1761217516
+        }
+      },
+      {
+        "powerupIdentifierAsString": "Rosary",
+        "boughtTimes": 0,
+        "modifier": 0,
+        "buttonBurnOutCounter": 0,
+        "buttonChargesCounter": 0,
+        "buttonChargesCounter_Absolute": 0,
+        "buttonChargesMax": 0,
+        "resellBonus": 0,
+        "charmSpecificRng": {
+          "seed": 1761217516,
+          "stateIndex": 0,
+          "randomNumber": 1761217516
+        }
+      },
+      {
+        "powerupIdentifierAsString": "BookOfShadows",
+        "boughtTimes": 0,
+        "modifier": 0,
+        "buttonBurnOutCounter": 0,
+        "buttonChargesCounter": 0,
+        "buttonChargesCounter_Absolute": 0,
+        "buttonChargesMax": 0,
+        "resellBonus": 0,
+        "charmSpecificRng": {
+          "seed": 1761217516,
+          "stateIndex": 0,
+          "randomNumber": 1761217516
+        }
+      },
+      {
+        "powerupIdentifierAsString": "Gabibbh",
+        "boughtTimes": 0,
+        "modifier": 0,
+        "buttonBurnOutCounter": 0,
+        "buttonChargesCounter": 0,
+        "buttonChargesCounter_Absolute": 0,
+        "buttonChargesMax": 0,
+        "resellBonus": 0,
+        "charmSpecificRng": {
+          "seed": 1761217516,
+          "stateIndex": 0,
+          "randomNumber": 1761217516
+        }
+      },
+      {
+        "powerupIdentifierAsString": "PossessedPhone",
+        "boughtTimes": 0,
+        "modifier": 0,
+        "buttonBurnOutCounter": 0,
+        "buttonChargesCounter": 0,
+        "buttonChargesCounter_Absolute": 0,
+        "buttonChargesMax": 3,
+        "resellBonus": 0,
+        "charmSpecificRng": {
+          "seed": 1761217516,
+          "stateIndex": 0,
+          "randomNumber": 1761217516
+        }
+      },
+      {
+        "powerupIdentifierAsString": "MysticalTomato",
+        "boughtTimes": 0,
+        "modifier": 0,
+        "buttonBurnOutCounter": 0,
+        "buttonChargesCounter": 0,
+        "buttonChargesCounter_Absolute": 0,
+        "buttonChargesMax": 0,
+        "resellBonus": 0,
+        "charmSpecificRng": {
+          "seed": 1761217516,
+          "stateIndex": 0,
+          "randomNumber": 1761217516
+        }
+      },
+      {
+        "powerupIdentifierAsString": "RitualBell",
+        "boughtTimes": 0,
+        "modifier": 0,
+        "buttonBurnOutCounter": 0,
+        "buttonChargesCounter": 0,
+        "buttonChargesCounter_Absolute": 0,
+        "buttonChargesMax": 0,
+        "resellBonus": 0,
+        "charmSpecificRng": {
+          "seed": 1761217516,
+          "stateIndex": 0,
+          "randomNumber": 1761217516
+        }
+      },
+      {
+        "powerupIdentifierAsString": "CrystalSkull",
+        "boughtTimes": 0,
+        "modifier": 0,
+        "buttonBurnOutCounter": 0,
+        "buttonChargesCounter": 0,
+        "buttonChargesCounter_Absolute": 0,
+        "buttonChargesMax": 0,
+        "resellBonus": 0,
+        "charmSpecificRng": {
+          "seed": 1761217516,
+          "stateIndex": 0,
+          "randomNumber": 1761217516
+        }
+      },
+      {
+        "powerupIdentifierAsString": "EvilDeal",
+        "boughtTimes": 0,
+        "modifier": 0,
+        "buttonBurnOutCounter": 0,
+        "buttonChargesCounter": 0,
+        "buttonChargesCounter_Absolute": 0,
+        "buttonChargesMax": 0,
+        "resellBonus": 0,
+        "charmSpecificRng": {
+          "seed": 1761217516,
+          "stateIndex": 0,
+          "randomNumber": 1761217516
+        }
+      },
+      {
+        "powerupIdentifierAsString": "ChastityBelt",
+        "boughtTimes": 0,
+        "modifier": 0,
+        "buttonBurnOutCounter": 0,
+        "buttonChargesCounter": 0,
+        "buttonChargesCounter_Absolute": 0,
+        "buttonChargesMax": 0,
+        "resellBonus": 0,
+        "charmSpecificRng": {
+          "seed": 1761217516,
+          "stateIndex": 0,
+          "randomNumber": 1761217516
+        }
+      },
+      {
+        "powerupIdentifierAsString": "PhotoBook",
+        "boughtTimes": 0,
+        "modifier": 0,
+        "buttonBurnOutCounter": 0,
+        "buttonChargesCounter": 0,
+        "buttonChargesCounter_Absolute": 0,
+        "buttonChargesMax": 0,
+        "resellBonus": 0,
+        "charmSpecificRng": {
+          "seed": 1761217516,
+          "stateIndex": 0,
+          "randomNumber": 1761217516
+        }
+      },
+      {
+        "powerupIdentifierAsString": "SymbolInstant_Lemon",
+        "boughtTimes": 0,
+        "modifier": 0,
+        "buttonBurnOutCounter": 0,
+        "buttonChargesCounter": 0,
+        "buttonChargesCounter_Absolute": 0,
+        "buttonChargesMax": 4,
+        "resellBonus": 0,
+        "charmSpecificRng": {
+          "seed": 1761217516,
+          "stateIndex": 0,
+          "randomNumber": 1761217516
+        }
+      },
+      {
+        "powerupIdentifierAsString": "SymbolInstant_Cherry",
+        "boughtTimes": 0,
+        "modifier": 0,
+        "buttonBurnOutCounter": 0,
+        "buttonChargesCounter": 0,
+        "buttonChargesCounter_Absolute": 0,
+        "buttonChargesMax": 4,
+        "resellBonus": 0,
+        "charmSpecificRng": {
+          "seed": 1761217516,
+          "stateIndex": 0,
+          "randomNumber": 1761217516
+        }
+      },
+      {
+        "powerupIdentifierAsString": "SymbolInstant_Clover",
+        "boughtTimes": 0,
+        "modifier": 0,
+        "buttonBurnOutCounter": 0,
+        "buttonChargesCounter": 0,
+        "buttonChargesCounter_Absolute": 0,
+        "buttonChargesMax": 4,
+        "resellBonus": 0,
+        "charmSpecificRng": {
+          "seed": 1761217516,
+          "stateIndex": 0,
+          "randomNumber": 1761217516
+        }
+      },
+      {
+        "powerupIdentifierAsString": "SymbolInstant_Bell",
+        "boughtTimes": 0,
+        "modifier": 0,
+        "buttonBurnOutCounter": 0,
+        "buttonChargesCounter": 0,
+        "buttonChargesCounter_Absolute": 0,
+        "buttonChargesMax": 4,
+        "resellBonus": 0,
+        "charmSpecificRng": {
+          "seed": 1761217516,
+          "stateIndex": 0,
+          "randomNumber": 1761217516
+        }
+      },
+      {
+        "powerupIdentifierAsString": "SymbolInstant_Diamond",
+        "boughtTimes": 0,
+        "modifier": 0,
+        "buttonBurnOutCounter": 0,
+        "buttonChargesCounter": 0,
+        "buttonChargesCounter_Absolute": 0,
+        "buttonChargesMax": 4,
+        "resellBonus": 0,
+        "charmSpecificRng": {
+          "seed": 1761217516,
+          "stateIndex": 0,
+          "randomNumber": 1761217516
+        }
+      },
+      {
+        "powerupIdentifierAsString": "SymbolInstant_Treasure",
+        "boughtTimes": 0,
+        "modifier": 0,
+        "buttonBurnOutCounter": 0,
+        "buttonChargesCounter": 0,
+        "buttonChargesCounter_Absolute": 0,
+        "buttonChargesMax": 4,
+        "resellBonus": 0,
+        "charmSpecificRng": {
+          "seed": 1761217516,
+          "stateIndex": 0,
+          "randomNumber": 1761217516
+        }
+      },
+      {
+        "powerupIdentifierAsString": "SymbolInstant_Seven",
+        "boughtTimes": 0,
+        "modifier": 0,
+        "buttonBurnOutCounter": 0,
+        "buttonChargesCounter": 0,
+        "buttonChargesCounter_Absolute": 0,
+        "buttonChargesMax": 4,
+        "resellBonus": 0,
+        "charmSpecificRng": {
+          "seed": 1761217516,
+          "stateIndex": 0,
+          "randomNumber": 1761217516
+        }
+      },
+      {
+        "powerupIdentifierAsString": "GeneralModCharm_Clicker",
+        "boughtTimes": 0,
+        "modifier": 0,
+        "buttonBurnOutCounter": 0,
+        "buttonChargesCounter": 0,
+        "buttonChargesCounter_Absolute": 0,
+        "buttonChargesMax": 0,
+        "resellBonus": 0,
+        "charmSpecificRng": {
+          "seed": 1761217516,
+          "stateIndex": 0,
+          "randomNumber": 1761217516
+        }
+      },
+      {
+        "powerupIdentifierAsString": "GeneralModCharm_CloverBellBattery",
+        "boughtTimes": 0,
+        "modifier": 0,
+        "buttonBurnOutCounter": 0,
+        "buttonChargesCounter": 0,
+        "buttonChargesCounter_Absolute": 0,
+        "buttonChargesMax": 0,
+        "resellBonus": 0,
+        "charmSpecificRng": {
+          "seed": 1761217516,
+          "stateIndex": 0,
+          "randomNumber": 1761217516
+        }
+      },
+      {
+        "powerupIdentifierAsString": "GeneralModCharm_CrystalSphere",
+        "boughtTimes": 0,
+        "modifier": 0,
+        "buttonBurnOutCounter": 0,
+        "buttonChargesCounter": 0,
+        "buttonChargesCounter_Absolute": 0,
+        "buttonChargesMax": 0,
+        "resellBonus": 0,
+        "charmSpecificRng": {
+          "seed": 1761217516,
+          "stateIndex": 0,
+          "randomNumber": 1761217516
+        }
+      },
+      {
+        "powerupIdentifierAsString": "Boardgame_C_Dealer",
+        "boughtTimes": 0,
+        "modifier": 0,
+        "buttonBurnOutCounter": 0,
+        "buttonChargesCounter": 0,
+        "buttonChargesCounter_Absolute": 0,
+        "buttonChargesMax": 0,
+        "resellBonus": 0,
+        "charmSpecificRng": {
+          "seed": 1761217516,
+          "stateIndex": 0,
+          "randomNumber": 1761217516
+        }
+      },
+      {
+        "powerupIdentifierAsString": "GoldenKingMida",
+        "boughtTimes": 0,
+        "modifier": 0,
+        "buttonBurnOutCounter": 0,
+        "buttonChargesCounter": 0,
+        "buttonChargesCounter_Absolute": 0,
+        "buttonChargesMax": 0,
+        "resellBonus": 0,
+        "charmSpecificRng": {
+          "seed": 1761217516,
+          "stateIndex": 0,
+          "randomNumber": 1761217516
+        }
+      },
+      {
+        "powerupIdentifierAsString": "Boardgame_M_Capitalist",
+        "boughtTimes": 0,
+        "modifier": 0,
+        "buttonBurnOutCounter": 0,
+        "buttonChargesCounter": 0,
+        "buttonChargesCounter_Absolute": 0,
+        "buttonChargesMax": 0,
+        "resellBonus": 0,
+        "charmSpecificRng": {
+          "seed": 1761217516,
+          "stateIndex": 0,
+          "randomNumber": 1761217516
+        }
+      },
+      {
+        "powerupIdentifierAsString": "PuppetPersonalTrainer",
+        "boughtTimes": 0,
+        "modifier": 0,
+        "buttonBurnOutCounter": 0,
+        "buttonChargesCounter": 0,
+        "buttonChargesCounter_Absolute": 0,
+        "buttonChargesMax": 0,
+        "resellBonus": 0,
+        "charmSpecificRng": {
+          "seed": 1761217516,
+          "stateIndex": 0,
+          "randomNumber": 1761217516
+        }
+      },
+      {
+        "powerupIdentifierAsString": "PuppetElectrician",
+        "boughtTimes": 0,
+        "modifier": 0,
+        "buttonBurnOutCounter": 0,
+        "buttonChargesCounter": 0,
+        "buttonChargesCounter_Absolute": 0,
+        "buttonChargesMax": 0,
+        "resellBonus": 0,
+        "charmSpecificRng": {
+          "seed": 1761217516,
+          "stateIndex": 0,
+          "randomNumber": 1761217516
+        }
+      },
+      {
+        "powerupIdentifierAsString": "PuppetFortuneTeller",
+        "boughtTimes": 0,
+        "modifier": 0,
+        "buttonBurnOutCounter": 0,
+        "buttonChargesCounter": 0,
+        "buttonChargesCounter_Absolute": 0,
+        "buttonChargesMax": 0,
+        "resellBonus": 0,
+        "charmSpecificRng": {
+          "seed": 1761217516,
+          "stateIndex": 0,
+          "randomNumber": 1761217516
+        }
+      },
+      {
+        "powerupIdentifierAsString": "GoldenSymbol_Lemon",
+        "boughtTimes": 0,
+        "modifier": 0,
+        "buttonBurnOutCounter": 0,
+        "buttonChargesCounter": 0,
+        "buttonChargesCounter_Absolute": 0,
+        "buttonChargesMax": 0,
+        "resellBonus": 0,
+        "charmSpecificRng": {
+          "seed": 1761217516,
+          "stateIndex": 0,
+          "randomNumber": 1761217516
+        }
+      },
+      {
+        "powerupIdentifierAsString": "GoldenSymbol_Cherry",
+        "boughtTimes": 0,
+        "modifier": 0,
+        "buttonBurnOutCounter": 0,
+        "buttonChargesCounter": 0,
+        "buttonChargesCounter_Absolute": 0,
+        "buttonChargesMax": 0,
+        "resellBonus": 0,
+        "charmSpecificRng": {
+          "seed": 1761217516,
+          "stateIndex": 0,
+          "randomNumber": 1761217516
+        }
+      },
+      {
+        "powerupIdentifierAsString": "GoldenSymbol_Clover",
+        "boughtTimes": 0,
+        "modifier": 0,
+        "buttonBurnOutCounter": 0,
+        "buttonChargesCounter": 0,
+        "buttonChargesCounter_Absolute": 0,
+        "buttonChargesMax": 0,
+        "resellBonus": 0,
+        "charmSpecificRng": {
+          "seed": 1761217516,
+          "stateIndex": 0,
+          "randomNumber": 1761217516
+        }
+      },
+      {
+        "powerupIdentifierAsString": "GoldenSymbol_Bell",
+        "boughtTimes": 0,
+        "modifier": 0,
+        "buttonBurnOutCounter": 0,
+        "buttonChargesCounter": 0,
+        "buttonChargesCounter_Absolute": 0,
+        "buttonChargesMax": 0,
+        "resellBonus": 0,
+        "charmSpecificRng": {
+          "seed": 1761217516,
+          "stateIndex": 0,
+          "randomNumber": 1761217516
+        }
+      },
+      {
+        "powerupIdentifierAsString": "GoldenSymbol_Diamond",
+        "boughtTimes": 0,
+        "modifier": 0,
+        "buttonBurnOutCounter": 0,
+        "buttonChargesCounter": 0,
+        "buttonChargesCounter_Absolute": 0,
+        "buttonChargesMax": 0,
+        "resellBonus": 0,
+        "charmSpecificRng": {
+          "seed": 1761217516,
+          "stateIndex": 0,
+          "randomNumber": 1761217516
+        }
+      },
+      {
+        "powerupIdentifierAsString": "GoldenSymbol_Treasure",
+        "boughtTimes": 0,
+        "modifier": 0,
+        "buttonBurnOutCounter": 0,
+        "buttonChargesCounter": 0,
+        "buttonChargesCounter_Absolute": 0,
+        "buttonChargesMax": 0,
+        "resellBonus": 0,
+        "charmSpecificRng": {
+          "seed": 1761217516,
+          "stateIndex": 0,
+          "randomNumber": 1761217516
+        }
+      },
+      {
+        "powerupIdentifierAsString": "GoldenSymbol_Seven",
+        "boughtTimes": 0,
+        "modifier": 0,
+        "buttonBurnOutCounter": 0,
+        "buttonChargesCounter": 0,
+        "buttonChargesCounter_Absolute": 0,
+        "buttonChargesMax": 0,
+        "resellBonus": 0,
+        "charmSpecificRng": {
+          "seed": 1761217516,
+          "stateIndex": 0,
+          "randomNumber": 1761217516
+        }
+      },
+      {
+        "powerupIdentifierAsString": "Boardgame_C_Bricks",
+        "boughtTimes": 0,
+        "modifier": 0,
+        "buttonBurnOutCounter": 0,
+        "buttonChargesCounter": 0,
+        "buttonChargesCounter_Absolute": 0,
+        "buttonChargesMax": 0,
+        "resellBonus": 0,
+        "charmSpecificRng": {
+          "seed": 1761217516,
+          "stateIndex": 0,
+          "randomNumber": 1761217516
+        }
+      },
+      {
+        "powerupIdentifierAsString": "Boardgame_C_Wood",
+        "boughtTimes": 0,
+        "modifier": 0,
+        "buttonBurnOutCounter": 0,
+        "buttonChargesCounter": 0,
+        "buttonChargesCounter_Absolute": 0,
+        "buttonChargesMax": 0,
+        "resellBonus": 0,
+        "charmSpecificRng": {
+          "seed": 1761217516,
+          "stateIndex": 0,
+          "randomNumber": 1761217516
+        }
+      },
+      {
+        "powerupIdentifierAsString": "Boardgame_C_Sheep",
+        "boughtTimes": 0,
+        "modifier": 0,
+        "buttonBurnOutCounter": 0,
+        "buttonChargesCounter": 0,
+        "buttonChargesCounter_Absolute": 0,
+        "buttonChargesMax": 0,
+        "resellBonus": 0,
+        "charmSpecificRng": {
+          "seed": 1761217516,
+          "stateIndex": 0,
+          "randomNumber": 1761217516
+        }
+      },
+      {
+        "powerupIdentifierAsString": "Boardgame_C_Wheat",
+        "boughtTimes": 0,
+        "modifier": 0,
+        "buttonBurnOutCounter": 0,
+        "buttonChargesCounter": 0,
+        "buttonChargesCounter_Absolute": 0,
+        "buttonChargesMax": 0,
+        "resellBonus": 0,
+        "charmSpecificRng": {
+          "seed": 1761217516,
+          "stateIndex": 0,
+          "randomNumber": 1761217516
+        }
+      },
+      {
+        "powerupIdentifierAsString": "Boardgame_C_Stone",
+        "boughtTimes": 0,
+        "modifier": 0,
+        "buttonBurnOutCounter": 0,
+        "buttonChargesCounter": 0,
+        "buttonChargesCounter_Absolute": 0,
+        "buttonChargesMax": 0,
+        "resellBonus": 0,
+        "charmSpecificRng": {
+          "seed": 1761217516,
+          "stateIndex": 0,
+          "randomNumber": 1761217516
+        }
+      },
+      {
+        "powerupIdentifierAsString": "Boardgame_C_Harbor",
+        "boughtTimes": 0,
+        "modifier": 0,
+        "buttonBurnOutCounter": 0,
+        "buttonChargesCounter": 0,
+        "buttonChargesCounter_Absolute": 0,
+        "buttonChargesMax": 0,
+        "resellBonus": 0,
+        "charmSpecificRng": {
+          "seed": 1761217516,
+          "stateIndex": 0,
+          "randomNumber": 1761217516
+        }
+      },
+      {
+        "powerupIdentifierAsString": "Boardgame_C_Thief",
+        "boughtTimes": 0,
+        "modifier": 0,
+        "buttonBurnOutCounter": 0,
+        "buttonChargesCounter": 0,
+        "buttonChargesCounter_Absolute": 0,
+        "buttonChargesMax": 0,
+        "resellBonus": 0,
+        "charmSpecificRng": {
+          "seed": 1761217516,
+          "stateIndex": 0,
+          "randomNumber": 1761217516
+        }
+      },
+      {
+        "powerupIdentifierAsString": "Boardgame_M_Carriola",
+        "boughtTimes": 0,
+        "modifier": 0,
+        "buttonBurnOutCounter": 0,
+        "buttonChargesCounter": 0,
+        "buttonChargesCounter_Absolute": 0,
+        "buttonChargesMax": 0,
+        "resellBonus": 0,
+        "charmSpecificRng": {
+          "seed": 1761217516,
+          "stateIndex": 0,
+          "randomNumber": 1761217516
+        }
+      },
+      {
+        "powerupIdentifierAsString": "Boardgame_M_Shoe",
+        "boughtTimes": 0,
+        "modifier": 0,
+        "buttonBurnOutCounter": 0,
+        "buttonChargesCounter": 0,
+        "buttonChargesCounter_Absolute": 0,
+        "buttonChargesMax": 0,
+        "resellBonus": 0,
+        "charmSpecificRng": {
+          "seed": 1761217516,
+          "stateIndex": 0,
+          "randomNumber": 1761217516
+        }
+      },
+      {
+        "powerupIdentifierAsString": "Boardgame_M_Ditale",
+        "boughtTimes": 0,
+        "modifier": 0,
+        "buttonBurnOutCounter": 0,
+        "buttonChargesCounter": 0,
+        "buttonChargesCounter_Absolute": 0,
+        "buttonChargesMax": 0,
+        "resellBonus": 0,
+        "charmSpecificRng": {
+          "seed": 1761217516,
+          "stateIndex": 0,
+          "randomNumber": 1761217516
+        }
+      },
+      {
+        "powerupIdentifierAsString": "Boardgame_M_FerroDaStiro",
+        "boughtTimes": 0,
+        "modifier": 0,
+        "buttonBurnOutCounter": 0,
+        "buttonChargesCounter": 0,
+        "buttonChargesCounter_Absolute": 0,
+        "buttonChargesMax": 0,
+        "resellBonus": 0,
+        "charmSpecificRng": {
+          "seed": 1761217516,
+          "stateIndex": 0,
+          "randomNumber": 1761217516
+        }
+      },
+      {
+        "powerupIdentifierAsString": "Boardgame_M_Car",
+        "boughtTimes": 0,
+        "modifier": 0,
+        "buttonBurnOutCounter": 0,
+        "buttonChargesCounter": 0,
+        "buttonChargesCounter_Absolute": 0,
+        "buttonChargesMax": 0,
+        "resellBonus": 0,
+        "charmSpecificRng": {
+          "seed": 1761217516,
+          "stateIndex": 0,
+          "randomNumber": 1761217516
+        }
+      },
+      {
+        "powerupIdentifierAsString": "Boardgame_M_Ship",
+        "boughtTimes": 0,
+        "modifier": 0,
+        "buttonBurnOutCounter": 0,
+        "buttonChargesCounter": 0,
+        "buttonChargesCounter_Absolute": 0,
+        "buttonChargesMax": 0,
+        "resellBonus": 0,
+        "charmSpecificRng": {
+          "seed": 1761217516,
+          "stateIndex": 0,
+          "randomNumber": 1761217516
+        }
+      },
+      {
+        "powerupIdentifierAsString": "Boardgame_M_Hat",
+        "boughtTimes": 0,
+        "modifier": 0,
+        "buttonBurnOutCounter": 0,
+        "buttonChargesCounter": 0,
+        "buttonChargesCounter_Absolute": 0,
+        "buttonChargesMax": 0,
+        "resellBonus": 0,
+        "charmSpecificRng": {
+          "seed": 1761217516,
+          "stateIndex": 0,
+          "randomNumber": 1761217516
+        }
+      },
+      {
+        "powerupIdentifierAsString": "PlayingCard_HeartsAce",
+        "boughtTimes": 0,
+        "modifier": 0,
+        "buttonBurnOutCounter": 0,
+        "buttonChargesCounter": 0,
+        "buttonChargesCounter_Absolute": 0,
+        "buttonChargesMax": 0,
+        "resellBonus": 0,
+        "charmSpecificRng": {
+          "seed": 1761217516,
+          "stateIndex": 0,
+          "randomNumber": 1761217516
+        }
+      },
+      {
+        "powerupIdentifierAsString": "PlayingCard_ClubsAce",
+        "boughtTimes": 0,
+        "modifier": 0,
+        "buttonBurnOutCounter": 0,
+        "buttonChargesCounter": 0,
+        "buttonChargesCounter_Absolute": 0,
+        "buttonChargesMax": 0,
+        "resellBonus": 0,
+        "charmSpecificRng": {
+          "seed": 1761217516,
+          "stateIndex": 0,
+          "randomNumber": 1761217516
+        }
+      },
+      {
+        "powerupIdentifierAsString": "PlayingCard_DiamondsAce",
+        "boughtTimes": 0,
+        "modifier": 0,
+        "buttonBurnOutCounter": 0,
+        "buttonChargesCounter": 0,
+        "buttonChargesCounter_Absolute": 0,
+        "buttonChargesMax": 0,
+        "resellBonus": 0,
+        "charmSpecificRng": {
+          "seed": 1761217516,
+          "stateIndex": 0,
+          "randomNumber": 1761217516
+        }
+      },
+      {
+        "powerupIdentifierAsString": "PlayingCard_SpadesAce",
+        "boughtTimes": 0,
+        "modifier": 0,
+        "buttonBurnOutCounter": 0,
+        "buttonChargesCounter": 0,
+        "buttonChargesCounter_Absolute": 0,
+        "buttonChargesMax": 0,
+        "resellBonus": 0,
+        "charmSpecificRng": {
+          "seed": 1761217516,
+          "stateIndex": 0,
+          "randomNumber": 1761217516
+        }
+      },
+      {
+        "powerupIdentifierAsString": "Jimbo",
+        "boughtTimes": 0,
+        "modifier": 0,
+        "buttonBurnOutCounter": 0,
+        "buttonChargesCounter": 0,
+        "buttonChargesCounter_Absolute": 0,
+        "buttonChargesMax": 0,
+        "resellBonus": 0,
+        "charmSpecificRng": {
+          "seed": 1761217516,
+          "stateIndex": 3,
+          "randomNumber": 4143735998
+        }
+      },
+      {
+        "powerupIdentifierAsString": "Dice_4",
+        "boughtTimes": 0,
+        "modifier": 0,
+        "buttonBurnOutCounter": 0,
+        "buttonChargesCounter": 0,
+        "buttonChargesCounter_Absolute": 0,
+        "buttonChargesMax": 0,
+        "resellBonus": 0,
+        "charmSpecificRng": {
+          "seed": 1761217516,
+          "stateIndex": 0,
+          "randomNumber": 1761217516
+        }
+      },
+      {
+        "powerupIdentifierAsString": "Dice_6",
+        "boughtTimes": 0,
+        "modifier": 0,
+        "buttonBurnOutCounter": 0,
+        "buttonChargesCounter": 0,
+        "buttonChargesCounter_Absolute": 0,
+        "buttonChargesMax": 0,
+        "resellBonus": 0,
+        "charmSpecificRng": {
+          "seed": 1761217516,
+          "stateIndex": 0,
+          "randomNumber": 1761217516
+        }
+      },
+      {
+        "powerupIdentifierAsString": "Dice_20",
+        "boughtTimes": 0,
+        "modifier": 0,
+        "buttonBurnOutCounter": 0,
+        "buttonChargesCounter": 0,
+        "buttonChargesCounter_Absolute": 0,
+        "buttonChargesMax": 0,
+        "resellBonus": 0,
+        "charmSpecificRng": {
+          "seed": 1761217516,
+          "stateIndex": 0,
+          "randomNumber": 1761217516
+        }
+      },
+      {
+        "powerupIdentifierAsString": "_999_AngelHand",
+        "boughtTimes": 0,
+        "modifier": 0,
+        "buttonBurnOutCounter": 0,
+        "buttonChargesCounter": 0,
+        "buttonChargesCounter_Absolute": 0,
+        "buttonChargesMax": 6,
+        "resellBonus": 0,
+        "charmSpecificRng": {
+          "seed": 1761217516,
+          "stateIndex": 0,
+          "randomNumber": 1761217516
+        }
+      },
+      {
+        "powerupIdentifierAsString": "_999_EyeOfGod",
+        "boughtTimes": 0,
+        "modifier": 0,
+        "buttonBurnOutCounter": 0,
+        "buttonChargesCounter": 0,
+        "buttonChargesCounter_Absolute": 0,
+        "buttonChargesMax": 0,
+        "resellBonus": 0,
+        "charmSpecificRng": {
+          "seed": 1761217516,
+          "stateIndex": 0,
+          "randomNumber": 1761217516
+        }
+      },
+      {
+        "powerupIdentifierAsString": "_999_HolySpirit",
+        "boughtTimes": 0,
+        "modifier": 0,
+        "buttonBurnOutCounter": 0,
+        "buttonChargesCounter": 0,
+        "buttonChargesCounter_Absolute": 0,
+        "buttonChargesMax": 0,
+        "resellBonus": 0,
+        "charmSpecificRng": {
+          "seed": 1761217516,
+          "stateIndex": 0,
+          "randomNumber": 1761217516
+        }
+      },
+      {
+        "powerupIdentifierAsString": "_999_SacredHeart",
+        "boughtTimes": 0,
+        "modifier": 0,
+        "buttonBurnOutCounter": 0,
+        "buttonChargesCounter": 0,
+        "buttonChargesCounter_Absolute": 0,
+        "buttonChargesMax": 0,
+        "resellBonus": 0,
+        "charmSpecificRng": {
+          "seed": 1761217516,
+          "stateIndex": 0,
+          "randomNumber": 1761217516
+        }
+      },
+      {
+        "powerupIdentifierAsString": "_999_Aureola",
+        "boughtTimes": 0,
+        "modifier": 0,
+        "buttonBurnOutCounter": 0,
+        "buttonChargesCounter": 0,
+        "buttonChargesCounter_Absolute": 0,
+        "buttonChargesMax": 0,
+        "resellBonus": 0,
+        "charmSpecificRng": {
+          "seed": 1761217516,
+          "stateIndex": 0,
+          "randomNumber": 1761217516
+        }
+      },
+      {
+        "powerupIdentifierAsString": "_999_TheBlood",
+        "boughtTimes": 0,
+        "modifier": 0,
+        "buttonBurnOutCounter": 0,
+        "buttonChargesCounter": 0,
+        "buttonChargesCounter_Absolute": 0,
+        "buttonChargesMax": 0,
+        "resellBonus": 0,
+        "charmSpecificRng": {
+          "seed": 1761217516,
+          "stateIndex": 0,
+          "randomNumber": 1761217516
+        }
+      },
+      {
+        "powerupIdentifierAsString": "_999_TheBody",
+        "boughtTimes": 0,
+        "modifier": 0,
+        "buttonBurnOutCounter": 0,
+        "buttonChargesCounter": 0,
+        "buttonChargesCounter_Absolute": 0,
+        "buttonChargesMax": 0,
+        "resellBonus": 0,
+        "charmSpecificRng": {
+          "seed": 1761217516,
+          "stateIndex": 0,
+          "randomNumber": 1761217516
+        }
+      },
+      {
+        "powerupIdentifierAsString": "_999_Eternity",
+        "boughtTimes": 0,
+        "modifier": 0,
+        "buttonBurnOutCounter": 0,
+        "buttonChargesCounter": 0,
+        "buttonChargesCounter_Absolute": 0,
+        "buttonChargesMax": 0,
+        "resellBonus": 0,
+        "charmSpecificRng": {
+          "seed": 1761217516,
+          "stateIndex": 0,
+          "randomNumber": 1761217516
+        }
+      },
+      {
+        "powerupIdentifierAsString": "_999_AdamsRibcage",
+        "boughtTimes": 0,
+        "modifier": 0,
+        "buttonBurnOutCounter": 0,
+        "buttonChargesCounter": 0,
+        "buttonChargesCounter_Absolute": 0,
+        "buttonChargesMax": 0,
+        "resellBonus": 0,
+        "charmSpecificRng": {
+          "seed": 1761217516,
+          "stateIndex": 0,
+          "randomNumber": 1761217516
+        }
+      },
+      {
+        "powerupIdentifierAsString": "_999_OphanimWheels",
+        "boughtTimes": 0,
+        "modifier": 0,
+        "buttonBurnOutCounter": 0,
+        "buttonChargesCounter": 0,
+        "buttonChargesCounter_Absolute": 0,
+        "buttonChargesMax": 0,
+        "resellBonus": 0,
+        "charmSpecificRng": {
+          "seed": 1761217516,
+          "stateIndex": 0,
+          "randomNumber": 1761217516
+        }
+      }
+    ],
+    "_rndActivationFailsafe_ConsolationPrize": 0,
+    "_rndActivationFailsafe_BrokenCalculator": 0,
+    "_rndActivationFailsafe_CrankGenerator": 0,
+    "_rndActivationFailsafe_FakeCoin": 0,
+    "_rndActivationFailsafe_RedPepper": 0,
+    "_rndActivationFailsafe_GreenPepper": 0,
+    "_rndActivationFailsafe_GoldenPepper": 0,
+    "_rndActivationFailsafe_RottenPepper": 0,
+    "_rndActivationFailsafe_BellPepper": 0,
+    "_rndActivationFailsafe_Rosary": 0,
+    "_rndActivationFailsafe_Dice4": 0,
+    "_rndActivationFailsafe_SacredHeart": 0,
+    "_powerupHourglass_DeadlinesLeft": 3,
+    "_powerupFruitsBasket_RoundsLeft": 7,
+    "_powerupTarotDeck_Reward_ByteArray": [
+      0
+    ],
+    "_powerupPoopBeetle_SymbolsIncreasetMultByteArray": [
+      0
+    ],
+    "_powerupGrandmasPurse_ExtraInterest": 15,
+    "_powerupOneTrickPony_TargetSpinsLeftIndex": -1,
+    "_powerupPentacleTriggeredTimes": 0,
+    "_powerupCalendar_SymbolsIncreaserMultByteArray": [
+      0
+    ],
+    "_powerupGigaMushroom_SymbLemonsValue_ByteArray": [
+      0
+    ],
+    "_powerupGigaMushroom_SymbCherriesValue_ByteArray": [
+      0
+    ],
+    "_powerupGigaMushroom_SymbCloversValue_ByteArray": [
+      0
+    ],
+    "_powerupGigaMushroom_SymbBellsValue_ByteArray": [
+      0
+    ],
+    "_powerupGigaMushroom_SymbDiamondsValue_ByteArray": [
+      0
+    ],
+    "_powerupGigaMushroom_SymbCoinsValue_ByteArray": [
+      0
+    ],
+    "_powerupGigaMushroom_SymbSevensValue_ByteArray": [
+      0
+    ],
+    "_powerupGoldenHorseShoe_SpinsLeft": 0,
+    "_powerupAncientCoin_SpinsLeft": 0,
+    "_powerupChannelerOfFortunes_ActivationsCounter": 0,
+    "_powerupPareidolia_PatternBonuses": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "_powerupRingBell_BonusCounter": 0,
+    "_powerupConsolationPrize_BonusCounter": 0,
+    "_powerupStepsCounter_TriggersCounter": 0,
+    "_powerupDieselLocomotiveBonus": 0,
+    "_powerupSteamLocomotiveBonus": 0,
+    "_powerupDiscA_SpinsCounter": 0,
+    "_powerupDiscB_SpinsCounter": 0,
+    "_powerupDiscC_SpinsCounter": 0,
+    "_powerupWeirdClock_DeadlineUses": 0,
+    "_powerupCigarettesActivationsCounter": 0,
+    "jimboRoundsLeft": 3,
+    "jimboAbilities_Selected_Str": "Bad_Discard3,Good_Interest,Good_FreeRestocks",
+    "_powerupRedPepper_ActivationsCounter": 0,
+    "_powerupGreenPepper_ActivationsCounter": 0,
+    "_powerupGoldenPepper_LuckBonus": 0,
+    "_powerupRottenPepper_LuckBonus": 0,
+    "_powerupBellPepper_LuckBonus": 0,
+    "_powerupDevilHorn_AdditionalMultiplier": 0,
+    "_powerupBaphomet_SymbolsBonus": 1,
+    "_powerupBaphomet_PatternsBonus": 1,
+    "_powerupCross_Triggers": 0,
+    "_powerupPossessedPhone_SpinsCount": 0,
+    "_powerupGoldenKingMida_ExtraBonus": 0.0,
+    "_powerupDealer_ExtraBonus": 0.0,
+    "_powerupCapitalist_ExtraBonus": 0.0,
+    "_powerupPersonalTrainer_Bonus": 0.25,
+    "_powerupElectrician_Bonus": 0.05000000074505806,
+    "_powerupFortuneTeller_Bonus": 0.25,
+    "_powerupAceOfClubs_TicketsSpent": 0,
+    "_powerupAceOfSpades_ActivationsCounter": 0,
+    "_powerupHoleCircle_CharmStr": "undefined",
+    "_powerupHoleRomboid_CharmStr": "undefined",
+    "_powerupHoleCross_AbilityStr": "undefined",
+    "_powerupOphanimWheels_JackpotsCounter": 0,
+    "maxEquippablePowerups": 7,
+    "powerupCoinsMultiplier": 1.0,
+    "_redButtonActivationsMultiplier": 1,
+    "_abilityHoly_PatternsRepetitions": 0,
+    "phoneAbilitiesPickHistory_AsString": "",
+    "_phone_PickupWithAbilities_OverallCounter": 0,
+    "_phone_bookSpecialCall": false,
+    "_phone_SpecialCalls_Counter": 0,
+    "_phone_EvilCallsPicked_Counter": 0,
+    "_phone_EvilCallsIgnored_Counter": 0,
+    "_phoneAlreadyTransformed": false,
+    "_phone_pickedUpOnceLastDeadline": false,
+    "_phone_abilityAlreadyPickedUp": true,
+    "_phone_lastAbilityCategory": -1,
+    "_phone_AbilitiesToPick_String": "",
+    "_phoneAbilitiesNumber": 3,
+    "_phoneRerollCostIncrease": 1,
+    "_phoneRerollCost": 1,
+    "_phonePickMultiplier": 1,
+    "nineNineNine_TotalRewardEarned_ByteArray": [
+      0
+    ],
+    "phoneEasyCounter_SkippedCalls_Total": 0,
+    "phoneEasyCounter_SkippedCalls_Normal": 0,
+    "phoneEasyCounter_SkippedCalls_Evil": 0,
+    "phoneEasyCounter_SkippedCalls_Good": 0,
+    "_phoneRerollsPerformed": 0,
+    "_phoneRerollsPerformed_PerDeadline": 0,
+    "runModifierPicked_AsString": "defaultModifier",
+    "_runModifier_AlreadySet": true,
+    "runModifier_DealIsAvailable": false,
+    "runModifier_AcceptedDealsCounter": 0,
+    "_alreadyBoughtPowerupAtTerminal": false,
+    "newGameIntro_Finished": true,
+    "rewardBoxDebtIndex_ByteArray": [
+      5
+    ],
+    "doorKeyDeadlineDefined": false,
+    "keptPlayingPastWinCondition": false,
+    "rewardBoxWasOpened": false,
+    "rewardBoxHasPrize": true,
+    "prizeWasUsed": false,
+    "rewardKind": 2,
+    "stats_ModifiedLemonTriggeredTimes": 0,
+    "stats_ModifiedCherryTriggeredTimes": 0,
+    "stats_ModifiedCloverTriggeredTimes": 0,
+    "stats_ModifiedBellTriggeredTimes": 0,
+    "stats_ModifiedDiamondTriggeredTimes": 0,
+    "stats_ModifiedCoinsTriggeredTimes": 0,
+    "stats_ModifiedSevenTriggeredTimes": 0,
+    "stats_ModifiedSymbolTriggeredTimes": 0,
+    "stats_RedButtonEffectiveActivationsCounter": 0,
+    "stats_RestocksBoughtN": 0,
+    "stats_RestocksPerformed": 0,
+    "stats_PeppersBought": 0,
+    "stats_PlayTime_Seconds": 2550,
+    "stats_DeadlinesCompleted": 0,
+    "stats_CoinsEarned_ByteArray": [
+      37
+    ],
+    "stats_TicketsEarned": 3,
+    "stats_CharmsBought": 0,
+    "sixSixSixSeen": 0
+  },
+  "runsDone": 23,
+  "deathsDone": 20,
+  "tutorialQuestionEnabled": false,
+  "drawersUnlocked": [
+    true,
+    false,
+    false,
+    false
+  ],
+  "doorOpenedCounter": 0,
+  "badEndingCounter": 0,
+  "goodEndingCounter": 0,
+  "creditsSeenOnce": false,
+  "bookedBadEndingDialogue": false,
+  "demoVoucherUnlocked": false,
+  "jumperinoScarinoDoorino_DoneOnce": false,
+  "persistentStat_666SeenTimes": 9,
+  "_unlockedPowerupsString": "undefined,CarBattery,Button2X,ChastityBelt,Necklace,FruitBasket,RedCrystal,Ankh,Painkillers,PuppetElectrician,OneTrickPony,SevenSinsStone,PuppetFortuneTeller,GoldenKingMida,BookOfShadows,FortuneCookie,YellowStar,HouseContract,PuppetPersonalTrainer,ElectricityCounter,Boardgame_M_FerroDaStiro,CrankGenerator,Boardgame_M_Capitalist,Dice_4,GeneralModCharm_Clicker,GeneralModCharm_CloverBellBattery,GeneralModCharm_CrystalSphere,DearDiary",
+  "hasEverUnlockedAPowerup": true,
+  "unlockSteps_ElectricityCounter": 54,
+  "unlockSteps_DarkLotus": 24,
+  "unlockSteps_CloversLandPatch": 24,
+  "unlockSteps_AllIn": 14,
+  "unlockSteps_Garbage": 0,
+  "unlockSteps_VoiceMail": 6,
+  "unlockSteps_FortuneChanneler": 18,
+  "unlockSteps_HamsaUpside": 10,
+  "unlockSteps_AncientCoin": 22,
+  "unlockSteps_Sardines": 24,
+  "unlockSteps_Rosary": 0,
+  "unlockSteps_FortuneCookie": 18,
+  "unlockSteps_YellowStar": 14,
+  "unlockSteps_Cross": 54,
+  "unlockSteps_Calendar": 29,
+  "unlockSteps_PainKillers": 263,
+  "unlockSteps_ScratchAndWin": 14,
+  "unlockSteps_PhotoBook": 14,
+  "unlockSteps_Baphomet": 46,
+  "unlockSteps_DungBeetleStercoRaro": 24,
+  "unlockSteps_LuckyCatFat": 30,
+  "unlockSteps_LuckyCatSwole": 0,
+  "unlockSteps_HorseShoeGold": 2,
+  "unlockSteps_GoldenPepper": 4,
+  "unlockSteps_RottenPepper": 6,
+  "unlockSteps_BellPepper": 4,
+  "unlockSteps_Abyssu": 14,
+  "unlockSteps_Vorago": 24,
+  "unlockSteps_Barathrum": 33,
+  "unlockSteps_SuperCapacitor": 55,
+  "unlockSteps_CrankGenerator": 55,
+  "unlockSteps_BoardgameC_Bricks": 17,
+  "unlockSteps_BoardgameC_Wood": 14,
+  "unlockSteps_BoardgameC_Sheep": 23,
+  "unlockSteps_BoardgameC_Wheat": 50,
+  "unlockSteps_BoardgameC_Stone": 7,
+  "unlockSteps_BoardgameC_Harbor": 3,
+  "unlockSteps_BoardgameC_Thief": 145,
+  "unlockSteps_BoardgameM_Carriola": 17,
+  "unlockSteps_BoardgameM_Shoe": 14,
+  "unlockSteps_BoardgameM_Ditale": 23,
+  "unlockSteps_BoardgameM_Iron": 50,
+  "unlockSteps_BoardgameM_Car": 7,
+  "unlockSteps_BoardgameM_Ship": 3,
+  "unlockSteps_BoardgameM_TubaHat": 145,
+  "modSymbolTriggersCounter_Lemons": 17,
+  "modSymbolTriggersCounter_Cherries": 14,
+  "modSymbolTriggersCounter_Clovers": 23,
+  "modSymbolTriggersCounter_Bells": 50,
+  "modSymbolTriggersCounter_Diamonds": 7,
+  "modSymbolTriggersCounter_Treasures": 3,
+  "modSymbolTriggersCounter_Sevens": 145,
+  "terminalNotifications": [],
+  "_allCardsUnlocked": false,
+  "_allCardsHolographic": false,
+  "_runModSavingList": [
+    {
+      "runModifierIdentifierAsString": "defaultModifier",
+      "ownedCount": 0,
+      "unlockedTimes": 0,
+      "playedTimes": 23,
+      "wonTimes": 0,
+      "foilLevel": 0
+    },
+    {
+      "runModifierIdentifierAsString": "phoneEnhancer",
+      "ownedCount": 0,
+      "unlockedTimes": 0,
+      "playedTimes": 0,
+      "wonTimes": 0,
+      "foilLevel": 0
+    },
+    {
+      "runModifierIdentifierAsString": "redButtonOverload",
+      "ownedCount": 0,
+      "unlockedTimes": 0,
+      "playedTimes": 0,
+      "wonTimes": 0,
+      "foilLevel": 0
+    },
+    {
+      "runModifierIdentifierAsString": "smallerStore",
+      "ownedCount": 0,
+      "unlockedTimes": 0,
+      "playedTimes": 0,
+      "wonTimes": 0,
+      "foilLevel": 0
+    },
+    {
+      "runModifierIdentifierAsString": "smallItemPool",
+      "ownedCount": 0,
+      "unlockedTimes": 0,
+      "playedTimes": 0,
+      "wonTimes": 0,
+      "foilLevel": 0
+    },
+    {
+      "runModifierIdentifierAsString": "interestsGrow",
+      "ownedCount": 0,
+      "unlockedTimes": 0,
+      "playedTimes": 0,
+      "wonTimes": 0,
+      "foilLevel": 0
+    },
+    {
+      "runModifierIdentifierAsString": "lessSpaceMoreDiscount",
+      "ownedCount": 0,
+      "unlockedTimes": 0,
+      "playedTimes": 0,
+      "wonTimes": 0,
+      "foilLevel": 0
+    },
+    {
+      "runModifierIdentifierAsString": "smallRoundsMoreRounds",
+      "ownedCount": 0,
+      "unlockedTimes": 0,
+      "playedTimes": 0,
+      "wonTimes": 0,
+      "foilLevel": 0
+    },
+    {
+      "runModifierIdentifierAsString": "oneRoundPerDeadline",
+      "ownedCount": 0,
+      "unlockedTimes": 0,
+      "playedTimes": 0,
+      "wonTimes": 0,
+      "foilLevel": 0
+    },
+    {
+      "runModifierIdentifierAsString": "headStart",
+      "ownedCount": 0,
+      "unlockedTimes": 0,
+      "playedTimes": 0,
+      "wonTimes": 0,
+      "foilLevel": 0
+    },
+    {
+      "runModifierIdentifierAsString": "extraPacks",
+      "ownedCount": 0,
+      "unlockedTimes": 0,
+      "playedTimes": 0,
+      "wonTimes": 0,
+      "foilLevel": 0
+    },
+    {
+      "runModifierIdentifierAsString": "_666BigBetDouble_SmallBetNoone",
+      "ownedCount": 0,
+      "unlockedTimes": 0,
+      "playedTimes": 0,
+      "wonTimes": 0,
+      "foilLevel": 0
+    },
+    {
+      "runModifierIdentifierAsString": "_666DoubleChances_JackpotRecovers",
+      "ownedCount": 0,
+      "unlockedTimes": 0,
+      "playedTimes": 0,
+      "wonTimes": 0,
+      "foilLevel": 0
+    },
+    {
+      "runModifierIdentifierAsString": "_666LastRoundGuaranteed",
+      "ownedCount": 0,
+      "unlockedTimes": 0,
+      "playedTimes": 0,
+      "wonTimes": 0,
+      "foilLevel": 0
+    },
+    {
+      "runModifierIdentifierAsString": "drawerTableModifications",
+      "ownedCount": 0,
+      "unlockedTimes": 0,
+      "playedTimes": 0,
+      "wonTimes": 0,
+      "foilLevel": 0
+    },
+    {
+      "runModifierIdentifierAsString": "drawerModGamble",
+      "ownedCount": 0,
+      "unlockedTimes": 0,
+      "playedTimes": 0,
+      "wonTimes": 0,
+      "foilLevel": 0
+    },
+    {
+      "runModifierIdentifierAsString": "halven2SymbolsChances",
+      "ownedCount": 0,
+      "unlockedTimes": 0,
+      "playedTimes": 0,
+      "wonTimes": 0,
+      "foilLevel": 0
+    },
+    {
+      "runModifierIdentifierAsString": "charmsRecycling",
+      "ownedCount": 0,
+      "unlockedTimes": 0,
+      "playedTimes": 0,
+      "wonTimes": 0,
+      "foilLevel": 0
+    },
+    {
+      "runModifierIdentifierAsString": "allCharmsStoreModded",
+      "ownedCount": 0,
+      "unlockedTimes": 0,
+      "playedTimes": 0,
+      "wonTimes": 0,
+      "foilLevel": 0
+    },
+    {
+      "runModifierIdentifierAsString": "bigDebt",
+      "ownedCount": 0,
+      "unlockedTimes": 0,
+      "playedTimes": 0,
+      "wonTimes": 0,
+      "foilLevel": 0
+    }
+  ]
+}
