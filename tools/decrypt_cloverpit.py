@@ -1,7 +1,9 @@
 #!/usr/bin/env python3
 """
-CloverPit Save File Decryptor
-Decrypts GameDataFull.json using the game's custom encryption algorithm
+CloverPit Save File Editor
+Decrypts and encrypts GameDataFull.json using the game's custom encryption algorithm
+
+This tool is not affiliated with CloverPit or Panik Arcade.
 """
 
 import json
