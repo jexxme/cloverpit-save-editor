@@ -6,7 +6,7 @@ This tool is not affiliated with CloverPit or Panik Arcade.
 
 ## Web App
 
-Open XXXX in your browser and upload your encrypted save file.
+Open https://jexxme.github.io/cloverpit-save-editor/ in your browser and upload your encrypted save file.
 
 ## CLI Requirements
 
