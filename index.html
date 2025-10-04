@@ -502,16 +502,10 @@
 
           <div class="form-group">
             <div class="subsection-title">Symbols (spawn and modifiers)</div>
-            <div class="warning-box">
-              <strong>Spawn:</strong> higher means more frequent. Modifier chances are 0..1 and add traits like Golden or Chain.
-            </div>
-            <div id="symbolsEditor"></div>
+                        <div id="symbolsEditor"></div>
           </div>
 
-          <div class="form-group">
-            <div class="subsection-title">Available Symbols (toggle)</div>
-            <div id="symbolsAvailable"></div>
-          </div>
+          
 
           <div class="form-group">
             <div class="subsection-title">Global Multipliers</div>
@@ -901,9 +895,8 @@ function renderRngEditors() {
 function renderSymbolsEditor() {
   const gd = gameData?.gameplayData;
   const host = document.getElementById('symbolsEditor');
-  const availHost = document.getElementById('symbolsAvailable');
   const pattHost = document.getElementById('patternsEditor');
-  host.innerHTML = ''; availHost.innerHTML = ''; pattHost.innerHTML = '';
+  host.innerHTML = ''; pattHost.innerHTML = '';
 
   if (!gd) return;
 
@@ -955,27 +948,7 @@ function renderSymbolsEditor() {
     host.appendChild(hint);
   }
 
-  // Available symbols
-  if (Array.isArray(gd.symbolsData)) {
-    const names = gd.symbolsData.map(s=>s.symbolKindAsString);
-    const setAvail = new Set(gd.symbolsAvailable_AsString||[]);
-    const grid = document.createElement('div'); grid.className='powerup-grid';
-    names.forEach(n=>{
-      const id = `symAvail_${n}`;
-      const item = document.createElement('div');
-      item.className='powerup-item';
-      item.innerHTML = `
-        <input type="checkbox" id="${id}" ${setAvail.has(n)?'checked':''} />
-        <label for="${id}">${n}</label>
-      `;
-      grid.appendChild(item);
-    });
-    availHost.appendChild(grid);
-    const helper = document.createElement('div');
-    helper.className='help-text';
-    helper.textContent='Checked means present in symbolsAvailable_AsString. spawnChance can still be zero.';
-    availHost.appendChild(helper);
-  }
+  // Available symbols section removed
 
   // Patterns
   if (Array.isArray(gd.patternsData)) {
@@ -1476,15 +1449,7 @@ function saveToJSON() {
       s.modifierChance01_Chain = +document.getElementById(`${rid}_m_chain`).value || 0;
     });
 
-    // available toggles
-    const names = gd.symbolsData.map(s=>s.symbolKindAsString);
-    const newAvail = [];
-    names.forEach(n=>{
-      const id = `symAvail_${n}`;
-      const el = document.getElementById(id);
-      if (el && el.checked) newAvail.push(n);
-    });
-    gd.symbolsAvailable_AsString = newAvail;
+    // available toggles removed
   }
 
   // Patterns edits
