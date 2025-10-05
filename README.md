@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="public/icon.png" alt="CloverPit Save Editor Icon" width="128" height="128">
+</p>
+
 # CloverPit Save File Editor
 
 A tool to decrypt and encrypt CloverPit game save files. It also allows you to edit the save file directly in the browser using the web app.
@@ -52,16 +56,6 @@ CloverPit uses a custom XOR-based encryption:
    - Password is transformed 16 times through shuffling and XOR
    - Data is then XORed once with the final transformed password
    - Files are stored as latin-1 encoded bytes
-
-## File Structure
-
-```
-cloverpit-save-decrypt/
-├── README.md              # This file
-├── index.html             # The web app
-├── tools/
-│   └── decrypt_cloverpit.py  # Main encryption/decryption tool
-```
 
 ## Modifying Save Files (CLI)
 
