@@ -2,6 +2,8 @@
 
 A tool to decrypt and encrypt CloverPit game save files. It also allows you to edit the save file directly in the browser using the web app.
 
+**Tested on:** Steam Version 1.1 (internal version 3)
+
 This tool is not affiliated with CloverPit or Panik Arcade.
 
 ## Web App

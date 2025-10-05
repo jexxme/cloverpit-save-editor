@@ -89,6 +89,17 @@
   }
   footer p { margin:6px 0; }
   footer .muted { color:#718096; font-size:.9em; }
+  .collapsible { cursor:pointer; user-select:none; padding:12px 16px; background:#f7fafc; border-radius:6px; border:1px solid #e2e8f0; margin-bottom:20px; transition:.2s; }
+  .collapsible:hover { background:#edf2f7; }
+  .collapsible-header { display:flex; align-items:center; gap:8px; font-weight:600; color:#2d3748; }
+  .collapsible-arrow { font-size:0.8em; transition:transform .2s; }
+  .collapsible-arrow.open { transform:rotate(90deg); }
+  .collapsible-content { display:none; padding:12px 0 0 24px; font-size:13px; color:#4a5568; }
+  .collapsible-content.open { display:block; }
+  .collapsible-content ul { margin:8px 0; padding-left:20px; }
+  .collapsible-content li { margin:4px 0; }
+  .password-field { margin-bottom:20px; }
+  .password-field input { width:100%; max-width:400px; }
   @media (max-width:768px){ .form-row { grid-template-columns:1fr; } .action-bar { flex-direction:column; } }
 </style>
 </head>
@@ -96,10 +107,43 @@
   <div class="container">
     <header>
       <h1>CloverPit Save Editor</h1>
-      <p class="subtitle">Edit your save files</p>
+      <p class="subtitle">Edit your save files (Tested on Steam v1.1)</p>
     </header>
 
     <div class="main-content">
+      <div class="collapsible">
+        <div class="collapsible-header" onclick="toggleCollapsible(this.parentElement)">
+          <span class="collapsible-arrow">▶</span>
+          <span>Where to find your save file</span>
+        </div>
+        <div class="collapsible-content">
+          <ul>
+            <li><strong>Windows:</strong> <code>%USERPROFILE%\AppData\LocalLow\Panik\CloverPit\SaveData\GameData\</code></li>
+            <li><strong>Or Steam:</strong> <code>&lt;SteamLibrary&gt;\steamapps\common\CloverPit\SaveData\GameData\</code></li>
+          </ul>
+          <p>Look for <strong>GameDataFull.json</strong></p>
+        </div>
+      </div>
+
+      <div class="collapsible">
+        <div class="collapsible-header" onclick="toggleCollapsible(this.parentElement)">
+          <span class="collapsible-arrow">▶</span>
+          <span>Custom Password (Advanced)</span>
+        </div>
+        <div class="collapsible-content">
+          <p style="margin-bottom:12px;">
+            The game uses password <code style="background:#edf2f7; padding:2px 6px; border-radius:3px;">uoiyiuh_+=-5216gh;lj??!/345</code> for game version ≥2 (current: v3).
+            Only change this if you're working with a different game version or modded save.
+          </p>
+          <input
+            type="text"
+            id="customPassword"
+            placeholder="Leave empty for default password"
+            style="width:100%; max-width:400px; padding:10px 14px; border:2px solid #e2e8f0; border-radius:6px; font-size:14px; font-family:monospace;"
+          />
+        </div>
+      </div>
+
       <div class="upload-section" id="uploadSection" onclick="document.getElementById('fileInput').click()">
         <h3>Upload Encrypted Save File</h3>
         <p style="color:#718096; margin-bottom:16px;">Drop your encrypted GameDataFull.json here or click to browse</p>
@@ -748,6 +792,18 @@
 const PASSWORD = "uoiyiuh_+=-5216gh;lj??!/345";
 let currentFileName = "GameDataFull.json";
 let gameData = null;
+
+function getPassword() {
+  const customPw = document.getElementById('customPassword').value.trim();
+  return customPw || PASSWORD;
+}
+
+function toggleCollapsible(elem) {
+  const arrow = elem.querySelector('.collapsible-arrow');
+  const content = elem.querySelector('.collapsible-content');
+  arrow.classList.toggle('open');
+  content.classList.toggle('open');
+}
 
 const POWERUP_CATEGORIES = {
   "Skeleton Parts": ["Skeleton_Arm1","Skeleton_Arm2","Skeleton_Leg1","Skeleton_Leg2","Skeleton_Head"],
@@ -1561,7 +1617,7 @@ function handleFile(file) {
 
       // Treat as encrypted latin1, decrypt, parse
       const encryptedStr = arrayBufferToLatin1(e.target.result);
-      const decryptedStr = encryptCustom(encryptedStr, PASSWORD);
+      const decryptedStr = encryptCustom(encryptedStr, getPassword());
       gameData = JSON.parse(decryptedStr);
 
       document.getElementById('jsonEditor').value = JSON.stringify(gameData, null, 2);
@@ -1599,7 +1655,7 @@ function downloadEncrypted() {
     if (gameData) saveToJSON();
     const jsonData = JSON.parse(document.getElementById('jsonEditor').value);
     const jsonStr = JSON.stringify(jsonData, null, 0);
-    const encryptedStr = encryptCustom(jsonStr, PASSWORD);
+    const encryptedStr = encryptCustom(jsonStr, getPassword());
     const encryptedBuffer = latin1ToArrayBuffer(encryptedStr);
 
     const blob = new Blob([encryptedBuffer], { type:'application/octet-stream' });
